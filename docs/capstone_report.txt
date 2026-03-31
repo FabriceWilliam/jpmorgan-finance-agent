@@ -1,0 +1,43 @@
+JP MORGAN CHASE — AI FINANCE AGENT
+CAPSTONE PROJECT REPORT
+Author: Fabrice William FOMHOM
+Date: March 2026
+=================================================================
+
+# JP Morgan Chase AI Finance Agent: Fraud Detection Capstone Project Report
+
+## 1. EXECUTIVE SUMMARY
+
+Our AI-powered fraud detection system successfully analyzed 1,000 transactions totaling $165,366 in 2024, identifying 29 fraudulent cases representing $23,737 in potential losses. The Random Forest model with SMOTE enhancement achieved exceptional performance with an AUC of 0.9399 and 83% recall rate, demonstrating robust capability for real-time fraud prevention. Transaction amount emerged as the most critical fraud indicator, with fraudulent transactions averaging 5.6 times larger than legitimate ones.
+
+## 2. PROBLEM STATEMENT
+
+JP Morgan Chase required an advanced machine learning solution to detect fraudulent transactions in real-time while minimizing false positives that could disrupt legitimate customer activities. The challenge involved developing a scalable AI system capable of identifying subtle fraud patterns across diverse transaction categories while maintaining operational efficiency.
+
+## 3. METHODOLOGY
+
+• **Data Engineering**: Processed 1,000 transaction records with comprehensive feature engineering including transaction amount, merchant category, temporal patterns, and customer behavioral metrics
+• **Class Imbalance Treatment**: Implemented SMOTE (Synthetic Minority Oversampling Technique) to address the 2.90% fraud class imbalance and enhance model training effectiveness
+• **Model Selection**: Deployed Random Forest algorithm optimized for financial fraud detection, leveraging ensemble learning to capture complex non-linear fraud patterns
+• **Performance Validation**: Conducted rigorous cross-validation with emphasis on recall optimization to minimize false negatives and protect customer assets
+
+## 4. KEY FINDINGS
+
+• **Fraud Prevalence**: Identified 29 fraudulent transactions (2.90% of total volume) resulting in $23,737 in attempted fraud losses across the transaction portfolio
+• **High-Risk Categories**: Restaurant transactions exhibited the highest fraud rate at 7.58%, indicating elevated risk requiring enhanced monitoring protocols
+• **Transaction Size Profile**: Fraudulent transactions averaged $818 compared to $146 for legitimate transactions, representing a 5.6x magnitude differential
+• **Predictive Features**: Transaction amount demonstrated 57% feature importance, establishing it as the primary fraud detection signal for algorithmic decision-making
+
+## 5. ML MODEL PERFORMANCE
+
+The Random Forest model with SMOTE enhancement delivered exceptional performance metrics with an AUC score of 0.9399, indicating superior discriminatory capability between fraudulent and legitimate transactions. The model achieved an 83% recall rate, successfully identifying approximately 5 out of every 6 fraudulent transactions while maintaining acceptable precision levels. This performance profile positions the system as highly effective for production deployment in JP Morgan's transaction monitoring infrastructure.
+
+## 6. BUSINESS RECOMMENDATIONS
+
+• **Enhanced Restaurant Monitoring**: Implement real-time transaction limits and additional authentication requirements for restaurant category transactions exceeding $300, given the 7.58% fraud rate in this segment
+• **Dynamic Amount Thresholds**: Deploy machine learning-driven dynamic transaction limits based on customer profiles, with automatic flags for transactions exceeding 3x individual customer baseline amounts
+• **Production Deployment**: Integrate the Random Forest model into JP Morgan's existing fraud prevention infrastructure with continuous model retraining protocols to maintain detection accuracy as fraud patterns evolve
+
+## 7. CONCLUSION
+
+The AI Finance Agent successfully demonstrates JP Morgan Chase's capability to leverage advanced machine learning for proactive fraud detection, potentially preventing $19,743 in fraud losses based on the 83% recall rate. This initiative positions the firm to enhance customer protection while maintaining operational efficiency through intelligent automation of fraud detection processes.

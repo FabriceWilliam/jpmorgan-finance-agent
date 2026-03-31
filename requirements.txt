@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+anthropic
+langchain
+langchain-anthropic
+langgraph
+streamlit
+python-dotenv
+altair

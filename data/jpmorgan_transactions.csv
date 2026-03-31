@@ -1,0 +1,1001 @@
+transaction_id,date,customer_id,merchant,category,amount,is_fraud,month,month_name,day_of_week,quarter
+TXN_00001,2024-11-23,CUST_0095,Whole Foods,restaurant,70.39,0,11,Nov,Saturday,4
+TXN_00002,2024-04-24,CUST_0014,McDonald's,electronics,451.52,0,4,Apr,Wednesday,2
+TXN_00003,2024-10-29,CUST_0004,Walmart,restaurant,197.51,0,10,Oct,Tuesday,4
+TXN_00004,2024-04-29,CUST_0004,McDonald's,restaurant,136.94,0,4,Apr,Monday,2
+TXN_00005,2024-11-28,CUST_0054,Apple Store,online_shopping,25.44,0,11,Nov,Thursday,4
+TXN_00006,2024-10-28,CUST_0001,Delta Airlines,ATM_withdrawal,25.44,0,10,Oct,Monday,4
+TXN_00007,2024-06-23,CUST_0028,CVS Pharmacy,electronics,8.98,0,6,Jun,Sunday,2
+TXN_00008,2024-02-17,CUST_0046,CVS Pharmacy,healthcare,301.68,0,2,Feb,Saturday,1
+TXN_00009,2024-01-23,CUST_0069,Walmart,ATM_withdrawal,137.86,0,1,Jan,Tuesday,1
+TXN_00010,2024-02-10,CUST_0081,Uber,transfer,184.69,0,2,Feb,Saturday,1
+TXN_00011,2024-10-22,CUST_0009,Amazon,restaurant,3.12,0,10,Oct,Tuesday,4
+TXN_00012,2024-05-28,CUST_0030,Walmart,ATM_withdrawal,525.53,0,5,May,Tuesday,2
+TXN_00013,2024-05-22,CUST_0047,Delta Airlines,transfer,267.96,0,5,May,Wednesday,2
+TXN_00014,2024-06-30,CUST_0035,Walmart,travel,35.8,0,6,Jun,Sunday,2
+TXN_00015,2024-09-30,CUST_0021,Best Buy,ATM_withdrawal,30.1,0,9,Sep,Monday,3
+TXN_00016,2024-05-18,CUST_0082,McDonald's,restaurant,30.39,0,5,May,Saturday,2
+TXN_00017,2024-12-16,CUST_0099,Amazon,restaurant,54.41,0,12,Dec,Monday,4
+TXN_00018,2024-01-17,CUST_0052,Whole Foods,electronics,111.59,0,1,Jan,Wednesday,1
+TXN_00019,2024-04-18,CUST_0073,CVS Pharmacy,restaurant,84.83,0,4,Apr,Thursday,2
+TXN_00020,2024-12-01,CUST_0083,Best Buy,travel,51.63,0,12,Dec,Sunday,4
+TXN_00021,2024-05-15,CUST_0096,McDonald's,healthcare,141.96,0,5,May,Wednesday,2
+TXN_00022,2024-10-26,CUST_0075,Marriott Hotels,transfer,22.54,0,10,Oct,Saturday,4
+TXN_00023,2024-04-22,CUST_0018,McDonald's,online_shopping,51.83,0,4,Apr,Monday,2
+TXN_00024,2024-02-16,CUST_0015,Delta Airlines,travel,68.44,0,2,Feb,Friday,1
+TXN_00025,2024-12-14,CUST_0009,Marriott Hotels,ATM_withdrawal,91.34,0,12,Dec,Saturday,4
+TXN_00026,2024-11-01,CUST_0068,Whole Foods,groceries,230.69,0,11,Nov,Friday,4
+TXN_00027,2024-12-14,CUST_0088,McDonald's,healthcare,33.41,0,12,Dec,Saturday,4
+TXN_00028,2024-11-24,CUST_0038,Marriott Hotels,travel,108.3,0,11,Nov,Sunday,4
+TXN_00029,2024-08-20,CUST_0093,Whole Foods,travel,889.97,1,8,Aug,Tuesday,3
+TXN_00030,2024-09-16,CUST_0081,Whole Foods,restaurant,7.13,0,9,Sep,Monday,3
+TXN_00031,2024-03-19,CUST_0021,McDonald's,groceries,140.3,0,3,Mar,Tuesday,1
+TXN_00032,2024-11-02,CUST_0003,Walmart,transfer,28.04,0,11,Nov,Saturday,4
+TXN_00033,2024-06-06,CUST_0031,Uber,electronics,10.09,0,6,Jun,Thursday,2
+TXN_00034,2024-02-13,CUST_0009,McDonald's,travel,446.05,0,2,Feb,Tuesday,1
+TXN_00035,2024-03-06,CUST_0071,Delta Airlines,healthcare,505.59,0,3,Mar,Wednesday,1
+TXN_00036,2024-09-27,CUST_0055,Apple Store,restaurant,247.85,0,9,Sep,Friday,3
+TXN_00037,2024-12-31,CUST_0086,CVS Pharmacy,online_shopping,54.49,0,12,Dec,Tuesday,4
+TXN_00038,2024-09-21,CUST_0032,Apple Store,electronics,15.42,0,9,Sep,Saturday,3
+TXN_00039,2024-06-22,CUST_0076,Apple Store,groceries,997.62,1,6,Jun,Saturday,2
+TXN_00040,2024-02-06,CUST_0008,Apple Store,electronics,87.01,0,2,Feb,Tuesday,1
+TXN_00041,2024-01-17,CUST_0010,McDonald's,restaurant,19.52,0,1,Jan,Wednesday,1
+TXN_00042,2024-05-22,CUST_0028,McDonald's,travel,102.53,0,5,May,Wednesday,2
+TXN_00043,2024-10-19,CUST_0032,Best Buy,ATM_withdrawal,5.25,0,10,Oct,Saturday,4
+TXN_00044,2024-04-07,CUST_0085,Marriott Hotels,transfer,360.06,0,4,Apr,Sunday,2
+TXN_00045,2024-08-04,CUST_0094,Amazon,electronics,44.92,0,8,Aug,Sunday,3
+TXN_00046,2024-02-01,CUST_0044,Walmart,restaurant,162.94,0,2,Feb,Thursday,1
+TXN_00047,2024-04-08,CUST_0058,Delta Airlines,ATM_withdrawal,56.03,0,4,Apr,Monday,2
+TXN_00048,2024-04-03,CUST_0032,Walmart,online_shopping,110.12,0,4,Apr,Wednesday,2
+TXN_00049,2024-10-08,CUST_0084,McDonald's,groceries,118.68,0,10,Oct,Tuesday,4
+TXN_00050,2024-02-17,CUST_0031,Delta Airlines,ATM_withdrawal,30.66,0,2,Feb,Saturday,1
+TXN_00051,2024-09-05,CUST_0052,Amazon,travel,523.92,0,9,Sep,Thursday,3
+TXN_00052,2024-07-13,CUST_0059,Whole Foods,ATM_withdrawal,1108.48,1,7,Jul,Saturday,3
+TXN_00053,2024-12-22,CUST_0072,Best Buy,travel,420.76,0,12,Dec,Sunday,4
+TXN_00054,2024-04-07,CUST_0008,Uber,groceries,337.82,0,4,Apr,Sunday,2
+TXN_00055,2024-06-09,CUST_0075,Best Buy,travel,136.66,0,6,Jun,Sunday,2
+TXN_00056,2024-01-30,CUST_0011,Delta Airlines,electronics,382.42,0,1,Jan,Tuesday,1
+TXN_00057,2024-10-31,CUST_0031,Marriott Hotels,electronics,13.9,0,10,Oct,Thursday,4
+TXN_00058,2024-10-18,CUST_0077,Amazon,electronics,32.72,0,10,Oct,Friday,4
+TXN_00059,2024-08-02,CUST_0073,McDonald's,transfer,6.94,0,8,Aug,Friday,3
+TXN_00060,2024-05-13,CUST_0092,CVS Pharmacy,restaurant,59.03,0,5,May,Monday,2
+TXN_00061,2024-05-15,CUST_0086,Whole Foods,online_shopping,73.82,0,5,May,Wednesday,2
+TXN_00062,2024-06-10,CUST_0010,Amazon,online_shopping,47.48,0,6,Jun,Monday,2
+TXN_00063,2024-11-14,CUST_0013,Walmart,restaurant,264.68,0,11,Nov,Thursday,4
+TXN_00064,2024-09-16,CUST_0045,Walmart,restaurant,66.18,0,9,Sep,Monday,3
+TXN_00065,2024-07-08,CUST_0057,McDonald's,healthcare,49.47,0,7,Jul,Monday,3
+TXN_00066,2024-11-09,CUST_0084,McDonald's,groceries,117.36,0,11,Nov,Saturday,4
+TXN_00067,2024-12-07,CUST_0039,Walmart,travel,22.78,0,12,Dec,Saturday,4
+TXN_00068,2024-05-15,CUST_0014,McDonald's,travel,243.07,0,5,May,Wednesday,2
+TXN_00069,2024-05-19,CUST_0027,CVS Pharmacy,restaurant,11.62,0,5,May,Sunday,2
+TXN_00070,2024-12-17,CUST_0034,McDonald's,online_shopping,650.12,0,12,Dec,Tuesday,4
+TXN_00071,2024-05-08,CUST_0007,Walmart,ATM_withdrawal,221.92,0,5,May,Wednesday,2
+TXN_00072,2024-05-21,CUST_0043,Delta Airlines,healthcare,33.23,0,5,May,Tuesday,2
+TXN_00073,2024-03-23,CUST_0071,Marriott Hotels,groceries,0.83,0,3,Mar,Saturday,1
+TXN_00074,2024-02-27,CUST_0089,Delta Airlines,groceries,253.48,0,2,Feb,Tuesday,1
+TXN_00075,2024-07-08,CUST_0019,Marriott Hotels,travel,184.06,0,7,Jul,Monday,3
+TXN_00076,2024-01-22,CUST_0006,CVS Pharmacy,restaurant,195.85,0,1,Jan,Monday,1
+TXN_00077,2024-12-15,CUST_0014,CVS Pharmacy,ATM_withdrawal,221.28,0,12,Dec,Sunday,4
+TXN_00078,2024-11-13,CUST_0031,Delta Airlines,travel,11.54,0,11,Nov,Wednesday,4
+TXN_00079,2024-07-30,CUST_0043,Marriott Hotels,restaurant,444.94,1,7,Jul,Tuesday,3
+TXN_00080,2024-05-16,CUST_0090,Walmart,ATM_withdrawal,18.47,0,5,May,Thursday,2
+TXN_00081,2024-01-20,CUST_0029,Apple Store,online_shopping,298.28,0,1,Jan,Saturday,1
+TXN_00082,2024-06-28,CUST_0030,Apple Store,groceries,146.45,0,6,Jun,Friday,2
+TXN_00083,2024-12-03,CUST_0043,Whole Foods,electronics,60.27,0,12,Dec,Tuesday,4
+TXN_00084,2024-05-22,CUST_0066,Marriott Hotels,transfer,9.85,0,5,May,Wednesday,2
+TXN_00085,2024-01-15,CUST_0034,Delta Airlines,healthcare,55.87,0,1,Jan,Monday,1
+TXN_00086,2024-01-20,CUST_0056,CVS Pharmacy,transfer,59.0,0,1,Jan,Saturday,1
+TXN_00087,2024-08-11,CUST_0066,Walmart,ATM_withdrawal,196.18,0,8,Aug,Sunday,3
+TXN_00088,2024-10-22,CUST_0006,Marriott Hotels,groceries,152.23,0,10,Oct,Tuesday,4
+TXN_00089,2024-09-23,CUST_0069,Apple Store,transfer,327.34,0,9,Sep,Monday,3
+TXN_00090,2024-08-08,CUST_0086,CVS Pharmacy,transfer,95.86,0,8,Aug,Thursday,3
+TXN_00091,2024-12-05,CUST_0093,Whole Foods,healthcare,19.11,0,12,Dec,Thursday,4
+TXN_00092,2024-12-07,CUST_0052,Whole Foods,travel,187.37,0,12,Dec,Saturday,4
+TXN_00093,2024-04-08,CUST_0049,Delta Airlines,healthcare,214.56,0,4,Apr,Monday,2
+TXN_00094,2024-07-26,CUST_0001,Whole Foods,healthcare,123.58,0,7,Jul,Friday,3
+TXN_00095,2024-04-17,CUST_0075,Uber,transfer,221.08,0,4,Apr,Wednesday,2
+TXN_00096,2024-08-26,CUST_0087,Apple Store,online_shopping,102.12,0,8,Aug,Monday,3
+TXN_00097,2024-03-27,CUST_0037,McDonald's,transfer,110.95,0,3,Mar,Wednesday,1
+TXN_00098,2024-02-17,CUST_0097,Apple Store,healthcare,83.67,0,2,Feb,Saturday,1
+TXN_00099,2024-04-25,CUST_0019,Amazon,groceries,3.86,0,4,Apr,Thursday,2
+TXN_00100,2024-05-05,CUST_0079,Walmart,online_shopping,17.13,0,5,May,Sunday,2
+TXN_00101,2024-07-31,CUST_0074,Apple Store,ATM_withdrawal,4.79,0,7,Jul,Wednesday,3
+TXN_00102,2024-09-10,CUST_0019,Amazon,electronics,151.76,0,9,Sep,Tuesday,3
+TXN_00103,2024-08-05,CUST_0090,McDonald's,online_shopping,56.61,0,8,Aug,Monday,3
+TXN_00104,2024-01-26,CUST_0016,Best Buy,travel,106.57,0,1,Jan,Friday,1
+TXN_00105,2024-08-25,CUST_0072,Uber,transfer,357.19,0,8,Aug,Sunday,3
+TXN_00106,2024-08-14,CUST_0093,McDonald's,ATM_withdrawal,43.01,0,8,Aug,Wednesday,3
+TXN_00107,2024-10-07,CUST_0021,Best Buy,online_shopping,79.24,0,10,Oct,Monday,4
+TXN_00108,2024-05-12,CUST_0082,Whole Foods,online_shopping,211.31,0,5,May,Sunday,2
+TXN_00109,2024-11-16,CUST_0057,Walmart,healthcare,38.97,0,11,Nov,Saturday,4
+TXN_00110,2024-04-30,CUST_0041,McDonald's,electronics,12.02,0,4,Apr,Tuesday,2
+TXN_00111,2024-03-11,CUST_0050,Delta Airlines,restaurant,51.32,0,3,Mar,Monday,1
+TXN_00112,2024-02-02,CUST_0043,McDonald's,online_shopping,26.37,0,2,Feb,Friday,1
+TXN_00113,2024-07-31,CUST_0054,Marriott Hotels,groceries,398.24,0,7,Jul,Wednesday,3
+TXN_00114,2024-10-21,CUST_0001,CVS Pharmacy,healthcare,247.63,0,10,Oct,Monday,4
+TXN_00115,2024-07-18,CUST_0054,McDonald's,restaurant,150.52,0,7,Jul,Thursday,3
+TXN_00116,2024-09-06,CUST_0056,Best Buy,groceries,307.73,0,9,Sep,Friday,3
+TXN_00117,2024-07-18,CUST_0087,Marriott Hotels,travel,244.2,0,7,Jul,Thursday,3
+TXN_00118,2024-08-27,CUST_0080,McDonald's,groceries,30.97,0,8,Aug,Tuesday,3
+TXN_00119,2024-07-20,CUST_0085,Amazon,electronics,334.62,0,7,Jul,Saturday,3
+TXN_00120,2024-11-25,CUST_0060,Delta Airlines,groceries,116.26,0,11,Nov,Monday,4
+TXN_00121,2024-05-13,CUST_0028,Best Buy,transfer,247.1,0,5,May,Monday,2
+TXN_00122,2024-06-21,CUST_0049,Whole Foods,ATM_withdrawal,339.64,0,6,Jun,Friday,2
+TXN_00123,2024-05-09,CUST_0061,Amazon,groceries,57.41,0,5,May,Thursday,2
+TXN_00124,2024-06-28,CUST_0009,Amazon,groceries,17.49,0,6,Jun,Friday,2
+TXN_00125,2024-05-06,CUST_0003,Uber,travel,38.8,0,5,May,Monday,2
+TXN_00126,2024-05-02,CUST_0086,Walmart,restaurant,83.56,0,5,May,Thursday,2
+TXN_00127,2024-08-26,CUST_0099,CVS Pharmacy,travel,255.57,0,8,Aug,Monday,3
+TXN_00128,2024-11-06,CUST_0096,Walmart,travel,295.7,0,11,Nov,Wednesday,4
+TXN_00129,2024-06-08,CUST_0004,Whole Foods,ATM_withdrawal,1.05,0,6,Jun,Saturday,2
+TXN_00130,2024-07-22,CUST_0026,Walmart,restaurant,107.23,0,7,Jul,Monday,3
+TXN_00131,2024-02-22,CUST_0039,Uber,electronics,81.04,0,2,Feb,Thursday,1
+TXN_00132,2024-10-16,CUST_0045,McDonald's,ATM_withdrawal,37.68,0,10,Oct,Wednesday,4
+TXN_00133,2024-12-04,CUST_0065,CVS Pharmacy,groceries,19.15,0,12,Dec,Wednesday,4
+TXN_00134,2024-08-03,CUST_0014,Marriott Hotels,transfer,61.79,0,8,Aug,Saturday,3
+TXN_00135,2024-11-21,CUST_0059,Delta Airlines,ATM_withdrawal,429.47,0,11,Nov,Thursday,4
+TXN_00136,2024-03-31,CUST_0084,Whole Foods,online_shopping,58.56,0,3,Mar,Sunday,1
+TXN_00137,2024-08-26,CUST_0094,Uber,healthcare,109.72,0,8,Aug,Monday,3
+TXN_00138,2024-06-14,CUST_0012,Whole Foods,online_shopping,182.11,0,6,Jun,Friday,2
+TXN_00139,2024-05-04,CUST_0073,Uber,ATM_withdrawal,67.8,0,5,May,Saturday,2
+TXN_00140,2024-06-21,CUST_0024,Best Buy,restaurant,3882.53,1,6,Jun,Friday,2
+TXN_00141,2024-06-30,CUST_0044,Whole Foods,healthcare,492.3,0,6,Jun,Sunday,2
+TXN_00142,2024-10-11,CUST_0011,Apple Store,ATM_withdrawal,336.78,1,10,Oct,Friday,4
+TXN_00143,2024-09-07,CUST_0031,Best Buy,online_shopping,103.15,0,9,Sep,Saturday,3
+TXN_00144,2024-08-17,CUST_0012,Whole Foods,restaurant,53.69,0,8,Aug,Saturday,3
+TXN_00145,2024-07-26,CUST_0040,Uber,transfer,50.29,0,7,Jul,Friday,3
+TXN_00146,2024-08-30,CUST_0045,Marriott Hotels,transfer,5.64,0,8,Aug,Friday,3
+TXN_00147,2024-06-29,CUST_0035,Whole Foods,healthcare,141.07,0,6,Jun,Saturday,2
+TXN_00148,2024-04-28,CUST_0025,CVS Pharmacy,electronics,104.78,0,4,Apr,Sunday,2
+TXN_00149,2024-10-01,CUST_0089,Delta Airlines,restaurant,7.93,0,10,Oct,Tuesday,4
+TXN_00150,2024-04-20,CUST_0036,Uber,healthcare,48.99,0,4,Apr,Saturday,2
+TXN_00151,2024-02-21,CUST_0038,Apple Store,transfer,358.33,0,2,Feb,Wednesday,1
+TXN_00152,2024-04-01,CUST_0091,McDonald's,travel,41.08,0,4,Apr,Monday,2
+TXN_00153,2024-05-20,CUST_0007,McDonald's,healthcare,23.48,0,5,May,Monday,2
+TXN_00154,2024-12-23,CUST_0082,Best Buy,electronics,100.84,0,12,Dec,Monday,4
+TXN_00155,2024-01-07,CUST_0061,Best Buy,online_shopping,636.61,0,1,Jan,Sunday,1
+TXN_00156,2024-06-23,CUST_0007,Whole Foods,online_shopping,41.57,0,6,Jun,Sunday,2
+TXN_00157,2024-02-28,CUST_0052,Best Buy,electronics,167.27,0,2,Feb,Wednesday,1
+TXN_00158,2024-10-22,CUST_0007,Delta Airlines,travel,215.08,0,10,Oct,Tuesday,4
+TXN_00159,2024-10-15,CUST_0011,Apple Store,electronics,40.7,0,10,Oct,Tuesday,4
+TXN_00160,2024-10-12,CUST_0078,Uber,restaurant,195.41,0,10,Oct,Saturday,4
+TXN_00161,2024-09-24,CUST_0057,Whole Foods,ATM_withdrawal,68.78,0,9,Sep,Tuesday,3
+TXN_00162,2024-06-05,CUST_0008,Uber,electronics,150.08,0,6,Jun,Wednesday,2
+TXN_00163,2024-04-16,CUST_0034,Walmart,travel,150.58,0,4,Apr,Tuesday,2
+TXN_00164,2024-05-02,CUST_0010,Delta Airlines,groceries,115.11,0,5,May,Thursday,2
+TXN_00165,2024-07-28,CUST_0077,Best Buy,healthcare,14.19,0,7,Jul,Sunday,3
+TXN_00166,2024-01-17,CUST_0091,Whole Foods,online_shopping,270.55,0,1,Jan,Wednesday,1
+TXN_00167,2024-02-06,CUST_0034,Uber,restaurant,58.02,0,2,Feb,Tuesday,1
+TXN_00168,2024-08-05,CUST_0029,Delta Airlines,healthcare,30.96,0,8,Aug,Monday,3
+TXN_00169,2024-03-13,CUST_0022,Whole Foods,healthcare,6.24,0,3,Mar,Wednesday,1
+TXN_00170,2024-08-12,CUST_0089,Whole Foods,ATM_withdrawal,134.07,0,8,Aug,Monday,3
+TXN_00171,2024-05-19,CUST_0064,Best Buy,electronics,169.78,0,5,May,Sunday,2
+TXN_00172,2024-11-02,CUST_0056,CVS Pharmacy,healthcare,2.51,0,11,Nov,Saturday,4
+TXN_00173,2024-01-14,CUST_0087,Uber,groceries,107.64,0,1,Jan,Sunday,1
+TXN_00174,2024-12-10,CUST_0074,Amazon,travel,38.52,0,12,Dec,Tuesday,4
+TXN_00175,2024-08-28,CUST_0057,Whole Foods,travel,155.42,0,8,Aug,Wednesday,3
+TXN_00176,2024-10-26,CUST_0063,Walmart,online_shopping,28.74,0,10,Oct,Saturday,4
+TXN_00177,2024-06-27,CUST_0042,Walmart,travel,176.13,0,6,Jun,Thursday,2
+TXN_00178,2024-06-17,CUST_0064,Whole Foods,ATM_withdrawal,73.34,0,6,Jun,Monday,2
+TXN_00179,2024-10-08,CUST_0012,CVS Pharmacy,healthcare,414.05,0,10,Oct,Tuesday,4
+TXN_00180,2024-06-14,CUST_0099,Marriott Hotels,groceries,22.19,0,6,Jun,Friday,2
+TXN_00181,2024-12-02,CUST_0060,Marriott Hotels,groceries,62.57,0,12,Dec,Monday,4
+TXN_00182,2024-04-06,CUST_0080,Best Buy,online_shopping,18.07,0,4,Apr,Saturday,2
+TXN_00183,2024-01-27,CUST_0071,Delta Airlines,healthcare,387.93,0,1,Jan,Saturday,1
+TXN_00184,2024-08-12,CUST_0063,Walmart,groceries,314.75,0,8,Aug,Monday,3
+TXN_00185,2024-11-18,CUST_0031,Delta Airlines,healthcare,44.75,0,11,Nov,Monday,4
+TXN_00186,2024-10-09,CUST_0029,Walmart,online_shopping,815.51,1,10,Oct,Wednesday,4
+TXN_00187,2024-03-01,CUST_0020,Best Buy,healthcare,254.92,0,3,Mar,Friday,1
+TXN_00188,2024-09-17,CUST_0054,Best Buy,online_shopping,121.52,0,9,Sep,Tuesday,3
+TXN_00189,2024-05-04,CUST_0019,Marriott Hotels,restaurant,113.14,0,5,May,Saturday,2
+TXN_00190,2024-11-02,CUST_0018,Walmart,healthcare,41.53,0,11,Nov,Saturday,4
+TXN_00191,2024-07-31,CUST_0065,Whole Foods,groceries,14.66,0,7,Jul,Wednesday,3
+TXN_00192,2024-05-24,CUST_0076,Uber,online_shopping,341.27,0,5,May,Friday,2
+TXN_00193,2024-03-17,CUST_0062,CVS Pharmacy,transfer,346.02,0,3,Mar,Sunday,1
+TXN_00194,2024-10-09,CUST_0049,Best Buy,transfer,150.4,0,10,Oct,Wednesday,4
+TXN_00195,2024-04-06,CUST_0031,Uber,ATM_withdrawal,62.11,0,4,Apr,Saturday,2
+TXN_00196,2024-04-29,CUST_0053,Amazon,transfer,64.44,0,4,Apr,Monday,2
+TXN_00197,2024-08-30,CUST_0049,Marriott Hotels,travel,194.17,0,8,Aug,Friday,3
+TXN_00198,2024-09-10,CUST_0017,McDonald's,transfer,341.11,0,9,Sep,Tuesday,3
+TXN_00199,2024-02-21,CUST_0057,Walmart,online_shopping,327.17,0,2,Feb,Wednesday,1
+TXN_00200,2024-01-08,CUST_0053,Delta Airlines,electronics,227.03,0,1,Jan,Monday,1
+TXN_00201,2024-08-28,CUST_0034,CVS Pharmacy,ATM_withdrawal,154.1,0,8,Aug,Wednesday,3
+TXN_00202,2024-11-28,CUST_0043,McDonald's,ATM_withdrawal,13.18,0,11,Nov,Thursday,4
+TXN_00203,2024-06-11,CUST_0098,Best Buy,groceries,26.44,0,6,Jun,Tuesday,2
+TXN_00204,2024-11-12,CUST_0081,Whole Foods,restaurant,343.23,0,11,Nov,Tuesday,4
+TXN_00205,2024-02-16,CUST_0013,Walmart,online_shopping,139.87,0,2,Feb,Friday,1
+TXN_00206,2024-03-26,CUST_0004,Amazon,transfer,1.39,0,3,Mar,Tuesday,1
+TXN_00207,2024-01-29,CUST_0048,Marriott Hotels,travel,16.05,0,1,Jan,Monday,1
+TXN_00208,2024-05-05,CUST_0073,Delta Airlines,travel,163.37,0,5,May,Sunday,2
+TXN_00209,2024-03-30,CUST_0049,Uber,restaurant,0.76,0,3,Mar,Saturday,1
+TXN_00210,2024-09-11,CUST_0019,Apple Store,online_shopping,26.3,0,9,Sep,Wednesday,3
+TXN_00211,2024-11-22,CUST_0033,Amazon,online_shopping,119.35,0,11,Nov,Friday,4
+TXN_00212,2024-05-27,CUST_0021,Walmart,online_shopping,176.6,0,5,May,Monday,2
+TXN_00213,2024-06-25,CUST_0039,Marriott Hotels,healthcare,158.32,0,6,Jun,Tuesday,2
+TXN_00214,2024-08-21,CUST_0026,Marriott Hotels,online_shopping,38.09,0,8,Aug,Wednesday,3
+TXN_00215,2024-02-24,CUST_0074,CVS Pharmacy,healthcare,186.81,0,2,Feb,Saturday,1
+TXN_00216,2024-12-24,CUST_0085,Marriott Hotels,healthcare,40.62,0,12,Dec,Tuesday,4
+TXN_00217,2024-01-05,CUST_0088,Amazon,online_shopping,59.05,0,1,Jan,Friday,1
+TXN_00218,2024-05-26,CUST_0030,Uber,transfer,205.85,0,5,May,Sunday,2
+TXN_00219,2024-04-22,CUST_0080,Whole Foods,travel,157.32,0,4,Apr,Monday,2
+TXN_00220,2024-11-17,CUST_0081,Amazon,healthcare,283.79,0,11,Nov,Sunday,4
+TXN_00221,2024-08-13,CUST_0047,Delta Airlines,electronics,160.77,0,8,Aug,Tuesday,3
+TXN_00222,2024-05-31,CUST_0054,Delta Airlines,restaurant,126.01,0,5,May,Friday,2
+TXN_00223,2024-03-08,CUST_0047,McDonald's,healthcare,14.75,0,3,Mar,Friday,1
+TXN_00224,2024-03-25,CUST_0062,Whole Foods,transfer,68.76,0,3,Mar,Monday,1
+TXN_00225,2024-02-28,CUST_0010,Delta Airlines,restaurant,46.22,0,2,Feb,Wednesday,1
+TXN_00226,2024-12-12,CUST_0051,McDonald's,transfer,41.96,0,12,Dec,Thursday,4
+TXN_00227,2024-02-16,CUST_0002,Whole Foods,electronics,541.85,0,2,Feb,Friday,1
+TXN_00228,2024-08-20,CUST_0096,Whole Foods,ATM_withdrawal,74.91,0,8,Aug,Tuesday,3
+TXN_00229,2024-11-22,CUST_0014,Apple Store,online_shopping,333.91,0,11,Nov,Friday,4
+TXN_00230,2024-01-13,CUST_0072,CVS Pharmacy,restaurant,149.6,0,1,Jan,Saturday,1
+TXN_00231,2024-11-27,CUST_0060,Whole Foods,ATM_withdrawal,237.57,0,11,Nov,Wednesday,4
+TXN_00232,2024-02-29,CUST_0005,Whole Foods,online_shopping,104.77,0,2,Feb,Thursday,1
+TXN_00233,2024-02-29,CUST_0069,Delta Airlines,ATM_withdrawal,129.02,0,2,Feb,Thursday,1
+TXN_00234,2024-08-20,CUST_0096,McDonald's,ATM_withdrawal,101.74,0,8,Aug,Tuesday,3
+TXN_00235,2024-10-27,CUST_0020,Marriott Hotels,electronics,32.58,0,10,Oct,Sunday,4
+TXN_00236,2024-09-07,CUST_0036,Amazon,transfer,192.26,0,9,Sep,Saturday,3
+TXN_00237,2024-04-21,CUST_0031,CVS Pharmacy,electronics,49.44,0,4,Apr,Sunday,2
+TXN_00238,2024-12-17,CUST_0083,CVS Pharmacy,groceries,3.69,0,12,Dec,Tuesday,4
+TXN_00239,2024-07-22,CUST_0016,Best Buy,electronics,155.55,0,7,Jul,Monday,3
+TXN_00240,2024-12-05,CUST_0082,Uber,groceries,29.24,0,12,Dec,Thursday,4
+TXN_00241,2024-01-26,CUST_0032,Delta Airlines,restaurant,423.16,0,1,Jan,Friday,1
+TXN_00242,2024-02-05,CUST_0071,Apple Store,restaurant,461.63,0,2,Feb,Monday,1
+TXN_00243,2024-04-29,CUST_0019,Uber,groceries,369.53,0,4,Apr,Monday,2
+TXN_00244,2024-05-21,CUST_0019,Delta Airlines,healthcare,69.34,0,5,May,Tuesday,2
+TXN_00245,2024-03-30,CUST_0004,Delta Airlines,groceries,2.34,0,3,Mar,Saturday,1
+TXN_00246,2024-07-02,CUST_0031,Uber,transfer,395.33,0,7,Jul,Tuesday,3
+TXN_00247,2024-01-09,CUST_0007,Delta Airlines,ATM_withdrawal,83.84,0,1,Jan,Tuesday,1
+TXN_00248,2024-09-26,CUST_0009,Best Buy,online_shopping,510.13,0,9,Sep,Thursday,3
+TXN_00249,2024-07-04,CUST_0014,Best Buy,restaurant,497.06,0,7,Jul,Thursday,3
+TXN_00250,2024-11-10,CUST_0085,McDonald's,healthcare,287.61,0,11,Nov,Sunday,4
+TXN_00251,2024-08-22,CUST_0004,Amazon,online_shopping,52.32,0,8,Aug,Thursday,3
+TXN_00252,2024-07-24,CUST_0014,Best Buy,online_shopping,72.94,0,7,Jul,Wednesday,3
+TXN_00253,2024-02-07,CUST_0042,Uber,travel,285.71,0,2,Feb,Wednesday,1
+TXN_00254,2024-02-03,CUST_0080,Uber,transfer,57.17,0,2,Feb,Saturday,1
+TXN_00255,2024-07-14,CUST_0068,Whole Foods,online_shopping,27.86,0,7,Jul,Sunday,3
+TXN_00256,2024-09-15,CUST_0013,Walmart,restaurant,122.06,0,9,Sep,Sunday,3
+TXN_00257,2024-08-08,CUST_0030,Marriott Hotels,transfer,412.69,0,8,Aug,Thursday,3
+TXN_00258,2024-08-20,CUST_0094,Walmart,transfer,178.62,0,8,Aug,Tuesday,3
+TXN_00259,2024-08-06,CUST_0033,CVS Pharmacy,travel,126.62,0,8,Aug,Tuesday,3
+TXN_00260,2024-12-17,CUST_0009,Walmart,electronics,15.33,0,12,Dec,Tuesday,4
+TXN_00261,2024-02-17,CUST_0096,CVS Pharmacy,travel,143.18,0,2,Feb,Saturday,1
+TXN_00262,2024-10-11,CUST_0072,McDonald's,transfer,691.59,0,10,Oct,Friday,4
+TXN_00263,2024-12-09,CUST_0046,Marriott Hotels,groceries,22.64,0,12,Dec,Monday,4
+TXN_00264,2024-05-27,CUST_0046,Walmart,restaurant,109.57,0,5,May,Monday,2
+TXN_00265,2024-03-20,CUST_0029,Walmart,transfer,314.79,0,3,Mar,Wednesday,1
+TXN_00266,2024-10-11,CUST_0098,Whole Foods,restaurant,202.51,0,10,Oct,Friday,4
+TXN_00267,2024-08-07,CUST_0099,Uber,groceries,179.11,0,8,Aug,Wednesday,3
+TXN_00268,2024-11-07,CUST_0089,Whole Foods,groceries,181.84,0,11,Nov,Thursday,4
+TXN_00269,2024-04-02,CUST_0098,Whole Foods,transfer,66.82,0,4,Apr,Tuesday,2
+TXN_00270,2024-06-28,CUST_0073,Marriott Hotels,electronics,383.12,1,6,Jun,Friday,2
+TXN_00271,2024-03-13,CUST_0004,Walmart,restaurant,248.61,0,3,Mar,Wednesday,1
+TXN_00272,2024-07-11,CUST_0044,Delta Airlines,transfer,249.2,0,7,Jul,Thursday,3
+TXN_00273,2024-06-08,CUST_0100,Uber,electronics,302.69,0,6,Jun,Saturday,2
+TXN_00274,2024-01-27,CUST_0097,Uber,groceries,366.69,0,1,Jan,Saturday,1
+TXN_00275,2024-12-11,CUST_0057,Marriott Hotels,online_shopping,107.41,0,12,Dec,Wednesday,4
+TXN_00276,2024-11-06,CUST_0035,Apple Store,electronics,104.43,0,11,Nov,Wednesday,4
+TXN_00277,2024-06-25,CUST_0037,Uber,online_shopping,240.14,0,6,Jun,Tuesday,2
+TXN_00278,2024-09-26,CUST_0006,Apple Store,ATM_withdrawal,157.46,0,9,Sep,Thursday,3
+TXN_00279,2024-11-02,CUST_0027,Whole Foods,restaurant,181.58,0,11,Nov,Saturday,4
+TXN_00280,2024-03-11,CUST_0038,CVS Pharmacy,electronics,238.29,0,3,Mar,Monday,1
+TXN_00281,2024-01-04,CUST_0056,Delta Airlines,travel,331.1,0,1,Jan,Thursday,1
+TXN_00282,2024-07-13,CUST_0030,McDonald's,transfer,61.87,0,7,Jul,Saturday,3
+TXN_00283,2024-02-06,CUST_0095,Amazon,ATM_withdrawal,70.64,0,2,Feb,Tuesday,1
+TXN_00284,2024-01-10,CUST_0010,CVS Pharmacy,ATM_withdrawal,14.8,0,1,Jan,Wednesday,1
+TXN_00285,2024-10-20,CUST_0082,Marriott Hotels,healthcare,129.51,0,10,Oct,Sunday,4
+TXN_00286,2024-02-28,CUST_0042,Delta Airlines,online_shopping,5.49,0,2,Feb,Wednesday,1
+TXN_00287,2024-12-19,CUST_0012,Marriott Hotels,electronics,93.99,0,12,Dec,Thursday,4
+TXN_00288,2024-05-04,CUST_0052,McDonald's,electronics,117.34,0,5,May,Saturday,2
+TXN_00289,2024-07-21,CUST_0096,CVS Pharmacy,restaurant,50.64,0,7,Jul,Sunday,3
+TXN_00290,2024-06-19,CUST_0010,McDonald's,electronics,134.04,0,6,Jun,Wednesday,2
+TXN_00291,2024-09-28,CUST_0100,CVS Pharmacy,transfer,4.65,0,9,Sep,Saturday,3
+TXN_00292,2024-11-26,CUST_0031,Walmart,travel,5.71,0,11,Nov,Tuesday,4
+TXN_00293,2024-05-11,CUST_0078,Delta Airlines,electronics,259.4,0,5,May,Saturday,2
+TXN_00294,2024-03-31,CUST_0081,Best Buy,online_shopping,66.99,0,3,Mar,Sunday,1
+TXN_00295,2024-10-15,CUST_0058,Uber,transfer,20.38,0,10,Oct,Tuesday,4
+TXN_00296,2024-11-17,CUST_0057,Walmart,online_shopping,110.8,0,11,Nov,Sunday,4
+TXN_00297,2024-08-14,CUST_0036,Uber,groceries,220.45,0,8,Aug,Wednesday,3
+TXN_00298,2024-06-29,CUST_0040,Best Buy,online_shopping,36.47,0,6,Jun,Saturday,2
+TXN_00299,2024-01-20,CUST_0037,Walmart,electronics,146.28,0,1,Jan,Saturday,1
+TXN_00300,2024-11-10,CUST_0050,Best Buy,groceries,13.38,0,11,Nov,Sunday,4
+TXN_00301,2024-08-18,CUST_0074,Apple Store,transfer,7.96,0,8,Aug,Sunday,3
+TXN_00302,2024-11-05,CUST_0020,Amazon,online_shopping,113.69,0,11,Nov,Tuesday,4
+TXN_00303,2024-02-22,CUST_0044,Walmart,travel,116.69,0,2,Feb,Thursday,1
+TXN_00304,2024-01-21,CUST_0057,Best Buy,travel,152.18,0,1,Jan,Sunday,1
+TXN_00305,2024-07-05,CUST_0037,Marriott Hotels,ATM_withdrawal,194.24,0,7,Jul,Friday,3
+TXN_00306,2024-06-22,CUST_0007,CVS Pharmacy,electronics,558.53,0,6,Jun,Saturday,2
+TXN_00307,2024-06-17,CUST_0087,Marriott Hotels,healthcare,108.94,0,6,Jun,Monday,2
+TXN_00308,2024-05-09,CUST_0085,Uber,travel,58.5,0,5,May,Thursday,2
+TXN_00309,2024-06-19,CUST_0085,Delta Airlines,transfer,237.85,0,6,Jun,Wednesday,2
+TXN_00310,2024-06-07,CUST_0090,Marriott Hotels,travel,47.38,0,6,Jun,Friday,2
+TXN_00311,2024-10-31,CUST_0011,Whole Foods,ATM_withdrawal,86.7,0,10,Oct,Thursday,4
+TXN_00312,2024-11-25,CUST_0017,McDonald's,electronics,12.26,0,11,Nov,Monday,4
+TXN_00313,2024-11-26,CUST_0066,CVS Pharmacy,groceries,3.85,0,11,Nov,Tuesday,4
+TXN_00314,2024-07-04,CUST_0028,CVS Pharmacy,online_shopping,493.11,0,7,Jul,Thursday,3
+TXN_00315,2024-04-08,CUST_0018,Delta Airlines,electronics,271.17,0,4,Apr,Monday,2
+TXN_00316,2024-05-31,CUST_0013,McDonald's,groceries,178.6,0,5,May,Friday,2
+TXN_00317,2024-12-04,CUST_0099,Uber,travel,78.88,0,12,Dec,Wednesday,4
+TXN_00318,2024-11-01,CUST_0021,Delta Airlines,travel,28.55,0,11,Nov,Friday,4
+TXN_00319,2024-08-12,CUST_0047,Apple Store,online_shopping,25.52,0,8,Aug,Monday,3
+TXN_00320,2024-11-08,CUST_0096,Best Buy,restaurant,43.2,0,11,Nov,Friday,4
+TXN_00321,2024-09-30,CUST_0061,Apple Store,transfer,119.52,0,9,Sep,Monday,3
+TXN_00322,2024-12-13,CUST_0057,Best Buy,healthcare,188.08,0,12,Dec,Friday,4
+TXN_00323,2024-07-14,CUST_0054,Delta Airlines,restaurant,161.91,0,7,Jul,Sunday,3
+TXN_00324,2024-11-05,CUST_0033,Amazon,online_shopping,49.26,0,11,Nov,Tuesday,4
+TXN_00325,2024-07-09,CUST_0014,McDonald's,electronics,464.72,0,7,Jul,Tuesday,3
+TXN_00326,2024-05-25,CUST_0021,Whole Foods,online_shopping,200.85,0,5,May,Saturday,2
+TXN_00327,2024-09-19,CUST_0056,Walmart,restaurant,121.23,0,9,Sep,Thursday,3
+TXN_00328,2024-08-18,CUST_0004,Marriott Hotels,groceries,141.9,0,8,Aug,Sunday,3
+TXN_00329,2024-07-21,CUST_0031,Marriott Hotels,electronics,81.61,0,7,Jul,Sunday,3
+TXN_00330,2024-07-10,CUST_0041,Walmart,transfer,42.7,0,7,Jul,Wednesday,3
+TXN_00331,2024-03-15,CUST_0037,Best Buy,travel,66.0,0,3,Mar,Friday,1
+TXN_00332,2024-12-27,CUST_0079,Amazon,electronics,212.73,0,12,Dec,Friday,4
+TXN_00333,2024-01-10,CUST_0020,McDonald's,ATM_withdrawal,2.17,0,1,Jan,Wednesday,1
+TXN_00334,2024-02-26,CUST_0031,Whole Foods,electronics,18.51,0,2,Feb,Monday,1
+TXN_00335,2024-01-25,CUST_0082,Uber,online_shopping,7.06,0,1,Jan,Thursday,1
+TXN_00336,2024-02-02,CUST_0064,Uber,groceries,6.24,0,2,Feb,Friday,1
+TXN_00337,2024-11-19,CUST_0031,Delta Airlines,healthcare,290.13,0,11,Nov,Tuesday,4
+TXN_00338,2024-08-07,CUST_0074,Marriott Hotels,travel,869.16,1,8,Aug,Wednesday,3
+TXN_00339,2024-12-06,CUST_0068,CVS Pharmacy,electronics,96.42,0,12,Dec,Friday,4
+TXN_00340,2024-09-26,CUST_0065,McDonald's,groceries,15.44,0,9,Sep,Thursday,3
+TXN_00341,2024-07-18,CUST_0006,Marriott Hotels,transfer,101.48,0,7,Jul,Thursday,3
+TXN_00342,2024-05-09,CUST_0046,Walmart,transfer,96.22,0,5,May,Thursday,2
+TXN_00343,2024-05-03,CUST_0081,Walmart,transfer,28.53,0,5,May,Friday,2
+TXN_00344,2024-03-09,CUST_0070,CVS Pharmacy,travel,85.33,0,3,Mar,Saturday,1
+TXN_00345,2024-12-16,CUST_0090,Best Buy,travel,76.25,0,12,Dec,Monday,4
+TXN_00346,2024-03-10,CUST_0100,Best Buy,groceries,143.51,0,3,Mar,Sunday,1
+TXN_00347,2024-05-30,CUST_0026,Amazon,transfer,151.22,0,5,May,Thursday,2
+TXN_00348,2024-06-07,CUST_0070,Best Buy,healthcare,6.95,0,6,Jun,Friday,2
+TXN_00349,2024-01-19,CUST_0025,Whole Foods,transfer,70.41,0,1,Jan,Friday,1
+TXN_00350,2024-01-25,CUST_0043,Whole Foods,electronics,147.47,0,1,Jan,Thursday,1
+TXN_00351,2024-07-07,CUST_0052,Best Buy,ATM_withdrawal,104.92,0,7,Jul,Sunday,3
+TXN_00352,2024-06-22,CUST_0064,Best Buy,transfer,291.2,0,6,Jun,Saturday,2
+TXN_00353,2024-09-22,CUST_0011,Marriott Hotels,electronics,161.25,0,9,Sep,Sunday,3
+TXN_00354,2024-08-08,CUST_0024,McDonald's,healthcare,26.68,0,8,Aug,Thursday,3
+TXN_00355,2024-06-13,CUST_0042,Whole Foods,healthcare,10.98,0,6,Jun,Thursday,2
+TXN_00356,2024-08-16,CUST_0055,Delta Airlines,online_shopping,154.26,0,8,Aug,Friday,3
+TXN_00357,2024-06-28,CUST_0094,CVS Pharmacy,ATM_withdrawal,4.03,0,6,Jun,Friday,2
+TXN_00358,2024-05-20,CUST_0008,Walmart,ATM_withdrawal,132.2,0,5,May,Monday,2
+TXN_00359,2024-07-05,CUST_0096,Delta Airlines,groceries,422.59,0,7,Jul,Friday,3
+TXN_00360,2024-03-14,CUST_0087,Best Buy,groceries,128.52,0,3,Mar,Thursday,1
+TXN_00361,2024-03-05,CUST_0100,CVS Pharmacy,transfer,73.7,0,3,Mar,Tuesday,1
+TXN_00362,2024-07-15,CUST_0005,Uber,travel,154.62,0,7,Jul,Monday,3
+TXN_00363,2024-12-13,CUST_0048,CVS Pharmacy,online_shopping,91.94,0,12,Dec,Friday,4
+TXN_00364,2024-02-09,CUST_0068,CVS Pharmacy,ATM_withdrawal,118.32,0,2,Feb,Friday,1
+TXN_00365,2024-06-09,CUST_0032,Walmart,groceries,425.72,0,6,Jun,Sunday,2
+TXN_00366,2024-04-05,CUST_0050,McDonald's,electronics,73.19,0,4,Apr,Friday,2
+TXN_00367,2024-05-14,CUST_0091,Best Buy,restaurant,487.36,0,5,May,Tuesday,2
+TXN_00368,2024-11-09,CUST_0063,Apple Store,electronics,353.64,0,11,Nov,Saturday,4
+TXN_00369,2024-03-10,CUST_0058,Delta Airlines,online_shopping,32.68,0,3,Mar,Sunday,1
+TXN_00370,2024-02-14,CUST_0041,CVS Pharmacy,electronics,10.78,0,2,Feb,Wednesday,1
+TXN_00371,2024-10-08,CUST_0039,Delta Airlines,travel,15.93,0,10,Oct,Tuesday,4
+TXN_00372,2024-07-04,CUST_0016,Apple Store,travel,2.76,0,7,Jul,Thursday,3
+TXN_00373,2024-05-01,CUST_0004,CVS Pharmacy,transfer,14.88,0,5,May,Wednesday,2
+TXN_00374,2024-08-27,CUST_0071,Delta Airlines,electronics,172.33,0,8,Aug,Tuesday,3
+TXN_00375,2024-02-03,CUST_0092,Best Buy,ATM_withdrawal,11.08,0,2,Feb,Saturday,1
+TXN_00376,2024-07-28,CUST_0010,Delta Airlines,transfer,57.62,0,7,Jul,Sunday,3
+TXN_00377,2024-11-24,CUST_0060,McDonald's,transfer,279.53,0,11,Nov,Sunday,4
+TXN_00378,2024-03-06,CUST_0100,McDonald's,travel,3.53,0,3,Mar,Wednesday,1
+TXN_00379,2024-03-07,CUST_0008,Walmart,travel,252.68,0,3,Mar,Thursday,1
+TXN_00380,2024-06-04,CUST_0042,Apple Store,transfer,49.66,0,6,Jun,Tuesday,2
+TXN_00381,2024-09-22,CUST_0011,Whole Foods,restaurant,18.86,0,9,Sep,Sunday,3
+TXN_00382,2024-11-21,CUST_0036,Delta Airlines,healthcare,178.97,0,11,Nov,Thursday,4
+TXN_00383,2024-11-10,CUST_0065,Delta Airlines,travel,148.71,0,11,Nov,Sunday,4
+TXN_00384,2024-03-28,CUST_0093,Uber,transfer,314.91,0,3,Mar,Thursday,1
+TXN_00385,2024-10-15,CUST_0004,Walmart,groceries,199.24,0,10,Oct,Tuesday,4
+TXN_00386,2024-11-24,CUST_0034,Apple Store,ATM_withdrawal,244.05,0,11,Nov,Sunday,4
+TXN_00387,2024-11-12,CUST_0064,McDonald's,healthcare,49.7,0,11,Nov,Tuesday,4
+TXN_00388,2024-11-24,CUST_0062,Apple Store,ATM_withdrawal,29.3,0,11,Nov,Sunday,4
+TXN_00389,2024-06-01,CUST_0089,Amazon,travel,208.31,0,6,Jun,Saturday,2
+TXN_00390,2024-08-13,CUST_0060,Apple Store,transfer,246.63,0,8,Aug,Tuesday,3
+TXN_00391,2024-11-06,CUST_0092,CVS Pharmacy,transfer,698.55,0,11,Nov,Wednesday,4
+TXN_00392,2024-07-23,CUST_0048,McDonald's,electronics,79.81,0,7,Jul,Tuesday,3
+TXN_00393,2024-06-12,CUST_0016,Whole Foods,online_shopping,69.79,0,6,Jun,Wednesday,2
+TXN_00394,2024-05-06,CUST_0007,Whole Foods,ATM_withdrawal,224.69,0,5,May,Monday,2
+TXN_00395,2024-11-11,CUST_0021,CVS Pharmacy,transfer,62.51,0,11,Nov,Monday,4
+TXN_00396,2024-04-07,CUST_0064,McDonald's,online_shopping,400.52,0,4,Apr,Sunday,2
+TXN_00397,2024-09-12,CUST_0064,Amazon,electronics,293.23,0,9,Sep,Thursday,3
+TXN_00398,2024-07-20,CUST_0031,Apple Store,transfer,84.05,0,7,Jul,Saturday,3
+TXN_00399,2024-01-25,CUST_0064,Uber,online_shopping,208.47,0,1,Jan,Thursday,1
+TXN_00400,2024-05-26,CUST_0014,Marriott Hotels,travel,210.69,0,5,May,Sunday,2
+TXN_00401,2024-05-15,CUST_0098,Marriott Hotels,transfer,16.33,0,5,May,Wednesday,2
+TXN_00402,2024-01-24,CUST_0073,McDonald's,restaurant,349.27,0,1,Jan,Wednesday,1
+TXN_00403,2024-07-04,CUST_0010,Marriott Hotels,online_shopping,105.56,0,7,Jul,Thursday,3
+TXN_00404,2024-10-08,CUST_0080,Uber,electronics,262.7,0,10,Oct,Tuesday,4
+TXN_00405,2024-03-06,CUST_0051,CVS Pharmacy,transfer,57.86,0,3,Mar,Wednesday,1
+TXN_00406,2024-10-12,CUST_0097,Delta Airlines,restaurant,338.82,0,10,Oct,Saturday,4
+TXN_00407,2024-11-04,CUST_0065,Amazon,groceries,73.95,0,11,Nov,Monday,4
+TXN_00408,2024-01-20,CUST_0043,Best Buy,online_shopping,1.63,0,1,Jan,Saturday,1
+TXN_00409,2024-03-17,CUST_0066,Delta Airlines,transfer,353.69,0,3,Mar,Sunday,1
+TXN_00410,2024-11-09,CUST_0051,Uber,healthcare,14.36,0,11,Nov,Saturday,4
+TXN_00411,2024-10-30,CUST_0066,McDonald's,online_shopping,57.7,0,10,Oct,Wednesday,4
+TXN_00412,2024-12-28,CUST_0061,Amazon,transfer,449.55,0,12,Dec,Saturday,4
+TXN_00413,2024-06-18,CUST_0054,Uber,healthcare,451.19,0,6,Jun,Tuesday,2
+TXN_00414,2024-12-18,CUST_0077,Best Buy,healthcare,127.8,0,12,Dec,Wednesday,4
+TXN_00415,2024-12-01,CUST_0100,Uber,restaurant,149.88,0,12,Dec,Sunday,4
+TXN_00416,2024-01-27,CUST_0022,McDonald's,ATM_withdrawal,89.25,0,1,Jan,Saturday,1
+TXN_00417,2024-03-16,CUST_0032,Amazon,electronics,52.05,0,3,Mar,Saturday,1
+TXN_00418,2024-04-07,CUST_0020,Marriott Hotels,restaurant,273.06,1,4,Apr,Sunday,2
+TXN_00419,2024-07-29,CUST_0079,Best Buy,groceries,167.45,0,7,Jul,Monday,3
+TXN_00420,2024-12-27,CUST_0027,McDonald's,transfer,209.38,0,12,Dec,Friday,4
+TXN_00421,2024-12-05,CUST_0049,CVS Pharmacy,travel,235.23,0,12,Dec,Thursday,4
+TXN_00422,2024-08-23,CUST_0044,McDonald's,transfer,233.82,0,8,Aug,Friday,3
+TXN_00423,2024-12-12,CUST_0093,Whole Foods,online_shopping,14.35,0,12,Dec,Thursday,4
+TXN_00424,2024-04-08,CUST_0036,McDonald's,healthcare,102.31,0,4,Apr,Monday,2
+TXN_00425,2024-04-25,CUST_0039,Whole Foods,restaurant,8.89,0,4,Apr,Thursday,2
+TXN_00426,2024-12-19,CUST_0041,Best Buy,transfer,119.62,0,12,Dec,Thursday,4
+TXN_00427,2024-10-13,CUST_0093,Whole Foods,healthcare,87.38,0,10,Oct,Sunday,4
+TXN_00428,2024-03-03,CUST_0070,Marriott Hotels,ATM_withdrawal,327.99,0,3,Mar,Sunday,1
+TXN_00429,2024-06-25,CUST_0019,Whole Foods,groceries,64.83,0,6,Jun,Tuesday,2
+TXN_00430,2024-05-27,CUST_0011,CVS Pharmacy,online_shopping,18.68,0,5,May,Monday,2
+TXN_00431,2024-12-01,CUST_0062,Apple Store,restaurant,23.15,0,12,Dec,Sunday,4
+TXN_00432,2024-10-02,CUST_0072,Whole Foods,travel,215.01,0,10,Oct,Wednesday,4
+TXN_00433,2024-02-25,CUST_0076,Apple Store,restaurant,144.44,0,2,Feb,Sunday,1
+TXN_00434,2024-01-26,CUST_0068,Apple Store,restaurant,15.99,0,1,Jan,Friday,1
+TXN_00435,2024-01-27,CUST_0043,Best Buy,electronics,13.18,0,1,Jan,Saturday,1
+TXN_00436,2024-12-14,CUST_0001,McDonald's,travel,181.08,0,12,Dec,Saturday,4
+TXN_00437,2024-07-27,CUST_0061,Best Buy,restaurant,11.33,0,7,Jul,Saturday,3
+TXN_00438,2024-05-27,CUST_0083,Amazon,electronics,258.78,0,5,May,Monday,2
+TXN_00439,2024-11-29,CUST_0069,Amazon,travel,183.75,0,11,Nov,Friday,4
+TXN_00440,2024-08-01,CUST_0023,Amazon,ATM_withdrawal,12.73,0,8,Aug,Thursday,3
+TXN_00441,2024-09-10,CUST_0096,Whole Foods,groceries,13.3,0,9,Sep,Tuesday,3
+TXN_00442,2024-01-05,CUST_0078,Walmart,transfer,647.32,0,1,Jan,Friday,1
+TXN_00443,2024-05-25,CUST_0083,McDonald's,online_shopping,70.33,0,5,May,Saturday,2
+TXN_00444,2024-03-09,CUST_0060,Whole Foods,restaurant,69.46,0,3,Mar,Saturday,1
+TXN_00445,2024-02-27,CUST_0094,Best Buy,healthcare,251.34,0,2,Feb,Tuesday,1
+TXN_00446,2024-04-05,CUST_0038,Uber,restaurant,2067.83,1,4,Apr,Friday,2
+TXN_00447,2024-03-30,CUST_0082,Marriott Hotels,ATM_withdrawal,640.32,0,3,Mar,Saturday,1
+TXN_00448,2024-09-20,CUST_0052,Walmart,travel,209.98,0,9,Sep,Friday,3
+TXN_00449,2024-03-12,CUST_0032,Amazon,healthcare,70.8,0,3,Mar,Tuesday,1
+TXN_00450,2024-07-15,CUST_0097,Whole Foods,transfer,13.08,0,7,Jul,Monday,3
+TXN_00451,2024-06-03,CUST_0074,Amazon,healthcare,225.19,0,6,Jun,Monday,2
+TXN_00452,2024-11-30,CUST_0031,Amazon,electronics,122.6,0,11,Nov,Saturday,4
+TXN_00453,2024-08-26,CUST_0052,McDonald's,healthcare,82.8,0,8,Aug,Monday,3
+TXN_00454,2024-12-19,CUST_0038,CVS Pharmacy,restaurant,355.24,0,12,Dec,Thursday,4
+TXN_00455,2024-04-22,CUST_0062,Delta Airlines,online_shopping,17.68,0,4,Apr,Monday,2
+TXN_00456,2024-11-06,CUST_0090,McDonald's,online_shopping,101.78,0,11,Nov,Wednesday,4
+TXN_00457,2024-10-02,CUST_0028,Apple Store,electronics,1.71,0,10,Oct,Wednesday,4
+TXN_00458,2024-09-26,CUST_0091,CVS Pharmacy,electronics,94.85,0,9,Sep,Thursday,3
+TXN_00459,2024-10-15,CUST_0071,McDonald's,restaurant,8.69,0,10,Oct,Tuesday,4
+TXN_00460,2024-10-20,CUST_0022,CVS Pharmacy,online_shopping,18.97,0,10,Oct,Sunday,4
+TXN_00461,2024-02-29,CUST_0092,Uber,online_shopping,18.75,0,2,Feb,Thursday,1
+TXN_00462,2024-02-16,CUST_0058,Amazon,online_shopping,157.14,0,2,Feb,Friday,1
+TXN_00463,2024-03-08,CUST_0059,Uber,groceries,205.59,0,3,Mar,Friday,1
+TXN_00464,2024-10-13,CUST_0040,Amazon,ATM_withdrawal,131.33,0,10,Oct,Sunday,4
+TXN_00465,2024-05-10,CUST_0096,Apple Store,electronics,491.21,0,5,May,Friday,2
+TXN_00466,2024-01-24,CUST_0090,Walmart,groceries,70.47,0,1,Jan,Wednesday,1
+TXN_00467,2024-02-05,CUST_0061,Amazon,healthcare,50.47,0,2,Feb,Monday,1
+TXN_00468,2024-07-28,CUST_0018,Marriott Hotels,transfer,304.43,0,7,Jul,Sunday,3
+TXN_00469,2024-07-14,CUST_0049,Marriott Hotels,electronics,37.96,0,7,Jul,Sunday,3
+TXN_00470,2024-12-15,CUST_0070,Delta Airlines,transfer,495.43,0,12,Dec,Sunday,4
+TXN_00471,2024-03-01,CUST_0069,Marriott Hotels,travel,1.83,0,3,Mar,Friday,1
+TXN_00472,2024-04-24,CUST_0097,Amazon,healthcare,525.38,0,4,Apr,Wednesday,2
+TXN_00473,2024-08-25,CUST_0070,Marriott Hotels,ATM_withdrawal,6.62,0,8,Aug,Sunday,3
+TXN_00474,2024-04-27,CUST_0045,Delta Airlines,healthcare,332.66,0,4,Apr,Saturday,2
+TXN_00475,2024-04-06,CUST_0093,Walmart,groceries,112.52,0,4,Apr,Saturday,2
+TXN_00476,2024-12-04,CUST_0099,Amazon,restaurant,743.52,0,12,Dec,Wednesday,4
+TXN_00477,2024-04-15,CUST_0077,Amazon,online_shopping,11.5,0,4,Apr,Monday,2
+TXN_00478,2024-11-02,CUST_0007,Apple Store,groceries,121.07,0,11,Nov,Saturday,4
+TXN_00479,2024-07-24,CUST_0070,Apple Store,groceries,522.54,0,7,Jul,Wednesday,3
+TXN_00480,2024-03-12,CUST_0038,Apple Store,transfer,111.07,0,3,Mar,Tuesday,1
+TXN_00481,2024-10-22,CUST_0087,CVS Pharmacy,restaurant,148.89,0,10,Oct,Tuesday,4
+TXN_00482,2024-06-03,CUST_0085,McDonald's,restaurant,178.49,0,6,Jun,Monday,2
+TXN_00483,2024-07-30,CUST_0008,McDonald's,travel,90.92,0,7,Jul,Tuesday,3
+TXN_00484,2024-11-16,CUST_0072,Best Buy,groceries,148.15,0,11,Nov,Saturday,4
+TXN_00485,2024-06-25,CUST_0086,Marriott Hotels,transfer,131.67,0,6,Jun,Tuesday,2
+TXN_00486,2024-12-22,CUST_0020,Whole Foods,ATM_withdrawal,347.13,0,12,Dec,Sunday,4
+TXN_00487,2024-04-04,CUST_0061,Apple Store,restaurant,6.98,0,4,Apr,Thursday,2
+TXN_00488,2024-06-02,CUST_0019,Best Buy,groceries,49.48,0,6,Jun,Sunday,2
+TXN_00489,2024-10-14,CUST_0054,McDonald's,travel,450.6,0,10,Oct,Monday,4
+TXN_00490,2024-07-17,CUST_0027,CVS Pharmacy,electronics,331.45,0,7,Jul,Wednesday,3
+TXN_00491,2024-08-18,CUST_0012,McDonald's,restaurant,91.23,0,8,Aug,Sunday,3
+TXN_00492,2024-01-27,CUST_0087,Uber,groceries,145.19,0,1,Jan,Saturday,1
+TXN_00493,2024-02-07,CUST_0098,Uber,restaurant,48.73,0,2,Feb,Wednesday,1
+TXN_00494,2024-09-02,CUST_0043,Whole Foods,groceries,31.26,0,9,Sep,Monday,3
+TXN_00495,2024-04-18,CUST_0095,Walmart,online_shopping,93.46,0,4,Apr,Thursday,2
+TXN_00496,2024-05-04,CUST_0091,Apple Store,ATM_withdrawal,65.39,0,5,May,Saturday,2
+TXN_00497,2024-05-02,CUST_0100,Whole Foods,ATM_withdrawal,131.44,0,5,May,Thursday,2
+TXN_00498,2024-08-26,CUST_0046,Whole Foods,healthcare,12.14,0,8,Aug,Monday,3
+TXN_00499,2024-07-03,CUST_0064,Best Buy,electronics,549.74,0,7,Jul,Wednesday,3
+TXN_00500,2024-08-28,CUST_0041,Apple Store,transfer,642.58,0,8,Aug,Wednesday,3
+TXN_00501,2024-06-09,CUST_0073,Apple Store,travel,179.68,0,6,Jun,Sunday,2
+TXN_00502,2024-01-09,CUST_0075,Uber,ATM_withdrawal,115.21,0,1,Jan,Tuesday,1
+TXN_00503,2024-05-31,CUST_0043,Apple Store,ATM_withdrawal,55.56,0,5,May,Friday,2
+TXN_00504,2024-10-18,CUST_0064,McDonald's,transfer,252.14,0,10,Oct,Friday,4
+TXN_00505,2024-05-11,CUST_0063,Best Buy,online_shopping,173.15,0,5,May,Saturday,2
+TXN_00506,2024-03-27,CUST_0046,Delta Airlines,travel,26.62,0,3,Mar,Wednesday,1
+TXN_00507,2024-10-06,CUST_0070,Amazon,groceries,362.75,0,10,Oct,Sunday,4
+TXN_00508,2024-02-08,CUST_0086,Amazon,groceries,259.35,0,2,Feb,Thursday,1
+TXN_00509,2024-07-30,CUST_0081,Apple Store,electronics,448.76,0,7,Jul,Tuesday,3
+TXN_00510,2024-12-28,CUST_0028,McDonald's,online_shopping,194.04,0,12,Dec,Saturday,4
+TXN_00511,2024-07-10,CUST_0082,Uber,online_shopping,142.56,0,7,Jul,Wednesday,3
+TXN_00512,2024-12-03,CUST_0001,McDonald's,ATM_withdrawal,81.26,0,12,Dec,Tuesday,4
+TXN_00513,2024-01-07,CUST_0069,Whole Foods,groceries,2676.45,1,1,Jan,Sunday,1
+TXN_00514,2024-09-14,CUST_0087,Marriott Hotels,travel,301.56,0,9,Sep,Saturday,3
+TXN_00515,2024-02-24,CUST_0068,Delta Airlines,restaurant,6.94,0,2,Feb,Saturday,1
+TXN_00516,2024-04-08,CUST_0033,CVS Pharmacy,healthcare,4.01,0,4,Apr,Monday,2
+TXN_00517,2024-07-22,CUST_0052,Best Buy,restaurant,70.85,0,7,Jul,Monday,3
+TXN_00518,2024-12-22,CUST_0088,Walmart,groceries,249.55,0,12,Dec,Sunday,4
+TXN_00519,2024-02-17,CUST_0049,McDonald's,online_shopping,654.64,0,2,Feb,Saturday,1
+TXN_00520,2024-01-29,CUST_0090,Delta Airlines,electronics,24.45,0,1,Jan,Monday,1
+TXN_00521,2024-09-12,CUST_0083,CVS Pharmacy,electronics,135.26,0,9,Sep,Thursday,3
+TXN_00522,2024-09-27,CUST_0030,Apple Store,online_shopping,71.92,0,9,Sep,Friday,3
+TXN_00523,2024-05-18,CUST_0010,Whole Foods,groceries,525.56,0,5,May,Saturday,2
+TXN_00524,2024-04-01,CUST_0041,Amazon,restaurant,276.89,0,4,Apr,Monday,2
+TXN_00525,2024-10-27,CUST_0092,Marriott Hotels,electronics,273.33,0,10,Oct,Sunday,4
+TXN_00526,2024-06-02,CUST_0031,Uber,ATM_withdrawal,94.86,0,6,Jun,Sunday,2
+TXN_00527,2024-12-12,CUST_0043,Marriott Hotels,travel,80.38,0,12,Dec,Thursday,4
+TXN_00528,2024-12-18,CUST_0065,CVS Pharmacy,groceries,47.91,0,12,Dec,Wednesday,4
+TXN_00529,2024-02-20,CUST_0010,CVS Pharmacy,ATM_withdrawal,8.7,0,2,Feb,Tuesday,1
+TXN_00530,2024-06-16,CUST_0058,Best Buy,restaurant,1310.25,1,6,Jun,Sunday,2
+TXN_00531,2024-07-01,CUST_0049,Marriott Hotels,travel,251.42,0,7,Jul,Monday,3
+TXN_00532,2024-12-14,CUST_0049,Walmart,healthcare,1225.87,0,12,Dec,Saturday,4
+TXN_00533,2024-05-06,CUST_0011,Whole Foods,travel,854.23,0,5,May,Monday,2
+TXN_00534,2024-07-13,CUST_0082,Delta Airlines,ATM_withdrawal,121.6,0,7,Jul,Saturday,3
+TXN_00535,2024-06-11,CUST_0012,Amazon,healthcare,219.79,0,6,Jun,Tuesday,2
+TXN_00536,2024-08-15,CUST_0035,Walmart,travel,434.43,0,8,Aug,Thursday,3
+TXN_00537,2024-02-14,CUST_0058,McDonald's,ATM_withdrawal,284.22,0,2,Feb,Wednesday,1
+TXN_00538,2024-02-22,CUST_0012,Uber,transfer,203.28,1,2,Feb,Thursday,1
+TXN_00539,2024-07-16,CUST_0100,Walmart,restaurant,455.3,1,7,Jul,Tuesday,3
+TXN_00540,2024-10-19,CUST_0088,Marriott Hotels,travel,20.74,0,10,Oct,Saturday,4
+TXN_00541,2024-03-12,CUST_0035,Best Buy,travel,462.03,0,3,Mar,Tuesday,1
+TXN_00542,2024-02-02,CUST_0036,Marriott Hotels,healthcare,139.78,0,2,Feb,Friday,1
+TXN_00543,2024-09-04,CUST_0047,Whole Foods,restaurant,38.94,0,9,Sep,Wednesday,3
+TXN_00544,2024-11-16,CUST_0079,Apple Store,online_shopping,167.07,0,11,Nov,Saturday,4
+TXN_00545,2024-02-24,CUST_0001,Marriott Hotels,transfer,144.4,0,2,Feb,Saturday,1
+TXN_00546,2024-11-13,CUST_0043,Best Buy,transfer,66.51,0,11,Nov,Wednesday,4
+TXN_00547,2024-08-08,CUST_0084,Uber,travel,18.08,0,8,Aug,Thursday,3
+TXN_00548,2024-06-02,CUST_0089,Apple Store,online_shopping,167.02,0,6,Jun,Sunday,2
+TXN_00549,2024-06-09,CUST_0051,CVS Pharmacy,healthcare,110.19,0,6,Jun,Sunday,2
+TXN_00550,2024-12-21,CUST_0074,Apple Store,transfer,221.97,0,12,Dec,Saturday,4
+TXN_00551,2024-07-11,CUST_0051,CVS Pharmacy,electronics,110.15,0,7,Jul,Thursday,3
+TXN_00552,2024-10-15,CUST_0070,Delta Airlines,groceries,286.77,0,10,Oct,Tuesday,4
+TXN_00553,2024-08-24,CUST_0027,Best Buy,healthcare,120.41,0,8,Aug,Saturday,3
+TXN_00554,2024-12-20,CUST_0053,Best Buy,travel,123.47,0,12,Dec,Friday,4
+TXN_00555,2024-11-20,CUST_0033,Delta Airlines,ATM_withdrawal,313.91,0,11,Nov,Wednesday,4
+TXN_00556,2024-07-12,CUST_0077,Best Buy,ATM_withdrawal,77.5,0,7,Jul,Friday,3
+TXN_00557,2024-09-30,CUST_0089,Marriott Hotels,groceries,21.58,0,9,Sep,Monday,3
+TXN_00558,2024-07-03,CUST_0069,Uber,electronics,4.38,0,7,Jul,Wednesday,3
+TXN_00559,2024-02-25,CUST_0085,CVS Pharmacy,travel,211.06,0,2,Feb,Sunday,1
+TXN_00560,2024-11-27,CUST_0073,Marriott Hotels,transfer,145.26,0,11,Nov,Wednesday,4
+TXN_00561,2024-08-08,CUST_0013,Whole Foods,restaurant,182.65,0,8,Aug,Thursday,3
+TXN_00562,2024-09-18,CUST_0072,Uber,restaurant,35.92,0,9,Sep,Wednesday,3
+TXN_00563,2024-08-16,CUST_0060,Uber,travel,21.99,0,8,Aug,Friday,3
+TXN_00564,2024-06-25,CUST_0062,Walmart,healthcare,2.2,0,6,Jun,Tuesday,2
+TXN_00565,2024-07-31,CUST_0011,Walmart,travel,64.75,0,7,Jul,Wednesday,3
+TXN_00566,2024-06-27,CUST_0059,Apple Store,online_shopping,133.71,0,6,Jun,Thursday,2
+TXN_00567,2024-06-27,CUST_0057,Best Buy,transfer,74.7,0,6,Jun,Thursday,2
+TXN_00568,2024-02-04,CUST_0091,Walmart,groceries,86.3,0,2,Feb,Sunday,1
+TXN_00569,2024-06-24,CUST_0087,Delta Airlines,restaurant,351.76,0,6,Jun,Monday,2
+TXN_00570,2024-09-21,CUST_0021,CVS Pharmacy,ATM_withdrawal,64.22,0,9,Sep,Saturday,3
+TXN_00571,2024-08-24,CUST_0052,Delta Airlines,travel,108.23,0,8,Aug,Saturday,3
+TXN_00572,2024-11-23,CUST_0051,Amazon,restaurant,229.63,0,11,Nov,Saturday,4
+TXN_00573,2024-08-18,CUST_0050,Amazon,restaurant,75.76,0,8,Aug,Sunday,3
+TXN_00574,2024-04-15,CUST_0091,Walmart,electronics,145.96,0,4,Apr,Monday,2
+TXN_00575,2024-10-01,CUST_0042,Apple Store,online_shopping,297.47,0,10,Oct,Tuesday,4
+TXN_00576,2024-02-28,CUST_0063,McDonald's,transfer,447.93,0,2,Feb,Wednesday,1
+TXN_00577,2024-11-01,CUST_0051,Uber,electronics,23.86,0,11,Nov,Friday,4
+TXN_00578,2024-06-27,CUST_0059,Uber,travel,391.75,0,6,Jun,Thursday,2
+TXN_00579,2024-12-10,CUST_0039,Uber,electronics,101.63,0,12,Dec,Tuesday,4
+TXN_00580,2024-12-10,CUST_0016,Apple Store,healthcare,44.81,0,12,Dec,Tuesday,4
+TXN_00581,2024-02-29,CUST_0089,Delta Airlines,ATM_withdrawal,92.19,0,2,Feb,Thursday,1
+TXN_00582,2024-08-02,CUST_0074,Marriott Hotels,ATM_withdrawal,587.05,0,8,Aug,Friday,3
+TXN_00583,2024-04-05,CUST_0069,Delta Airlines,travel,101.77,0,4,Apr,Friday,2
+TXN_00584,2024-09-07,CUST_0024,CVS Pharmacy,online_shopping,59.79,0,9,Sep,Saturday,3
+TXN_00585,2024-11-13,CUST_0046,Amazon,online_shopping,150.52,0,11,Nov,Wednesday,4
+TXN_00586,2024-03-10,CUST_0050,McDonald's,online_shopping,41.19,0,3,Mar,Sunday,1
+TXN_00587,2024-07-28,CUST_0054,Best Buy,online_shopping,11.83,0,7,Jul,Sunday,3
+TXN_00588,2024-03-26,CUST_0004,Apple Store,healthcare,20.7,0,3,Mar,Tuesday,1
+TXN_00589,2024-01-17,CUST_0069,Whole Foods,travel,20.55,0,1,Jan,Wednesday,1
+TXN_00590,2024-08-22,CUST_0099,Best Buy,electronics,24.71,0,8,Aug,Thursday,3
+TXN_00591,2024-10-20,CUST_0100,McDonald's,transfer,22.42,0,10,Oct,Sunday,4
+TXN_00592,2024-10-04,CUST_0006,Best Buy,restaurant,153.61,0,10,Oct,Friday,4
+TXN_00593,2024-08-05,CUST_0084,Apple Store,healthcare,30.11,0,8,Aug,Monday,3
+TXN_00594,2024-01-17,CUST_0045,Walmart,online_shopping,63.62,0,1,Jan,Wednesday,1
+TXN_00595,2024-03-01,CUST_0031,Apple Store,transfer,340.65,0,3,Mar,Friday,1
+TXN_00596,2024-12-29,CUST_0055,Delta Airlines,travel,96.36,0,12,Dec,Sunday,4
+TXN_00597,2024-04-15,CUST_0008,Uber,transfer,165.19,0,4,Apr,Monday,2
+TXN_00598,2024-09-29,CUST_0069,Delta Airlines,transfer,28.37,0,9,Sep,Sunday,3
+TXN_00599,2024-12-26,CUST_0074,Whole Foods,electronics,32.03,0,12,Dec,Thursday,4
+TXN_00600,2024-03-10,CUST_0053,Amazon,healthcare,6.26,0,3,Mar,Sunday,1
+TXN_00601,2024-12-01,CUST_0017,Apple Store,travel,27.76,0,12,Dec,Sunday,4
+TXN_00602,2024-12-30,CUST_0032,Marriott Hotels,online_shopping,48.98,0,12,Dec,Monday,4
+TXN_00603,2024-03-13,CUST_0035,Marriott Hotels,ATM_withdrawal,29.22,0,3,Mar,Wednesday,1
+TXN_00604,2024-08-19,CUST_0099,Walmart,ATM_withdrawal,13.93,0,8,Aug,Monday,3
+TXN_00605,2024-09-20,CUST_0089,CVS Pharmacy,online_shopping,19.28,0,9,Sep,Friday,3
+TXN_00606,2024-09-06,CUST_0001,Walmart,online_shopping,92.64,0,9,Sep,Friday,3
+TXN_00607,2024-11-21,CUST_0046,Walmart,ATM_withdrawal,34.66,0,11,Nov,Thursday,4
+TXN_00608,2024-04-21,CUST_0028,Best Buy,healthcare,67.95,0,4,Apr,Sunday,2
+TXN_00609,2024-06-14,CUST_0044,McDonald's,travel,105.0,0,6,Jun,Friday,2
+TXN_00610,2024-10-16,CUST_0044,Amazon,groceries,175.87,0,10,Oct,Wednesday,4
+TXN_00611,2024-02-20,CUST_0059,Amazon,electronics,6.02,0,2,Feb,Tuesday,1
+TXN_00612,2024-03-21,CUST_0001,Marriott Hotels,restaurant,240.97,0,3,Mar,Thursday,1
+TXN_00613,2024-12-18,CUST_0084,Whole Foods,travel,148.29,0,12,Dec,Wednesday,4
+TXN_00614,2024-05-20,CUST_0047,Whole Foods,electronics,12.79,0,5,May,Monday,2
+TXN_00615,2024-07-09,CUST_0084,Delta Airlines,groceries,310.22,0,7,Jul,Tuesday,3
+TXN_00616,2024-07-21,CUST_0093,Apple Store,ATM_withdrawal,380.5,0,7,Jul,Sunday,3
+TXN_00617,2024-12-01,CUST_0013,Amazon,restaurant,9.45,0,12,Dec,Sunday,4
+TXN_00618,2024-09-01,CUST_0076,Apple Store,online_shopping,48.63,0,9,Sep,Sunday,3
+TXN_00619,2024-01-05,CUST_0016,Marriott Hotels,travel,1161.26,1,1,Jan,Friday,1
+TXN_00620,2024-09-01,CUST_0050,Walmart,electronics,206.9,0,9,Sep,Sunday,3
+TXN_00621,2024-02-22,CUST_0039,Delta Airlines,ATM_withdrawal,30.6,0,2,Feb,Thursday,1
+TXN_00622,2024-03-09,CUST_0087,Delta Airlines,electronics,35.23,0,3,Mar,Saturday,1
+TXN_00623,2024-09-28,CUST_0079,Delta Airlines,online_shopping,69.42,0,9,Sep,Saturday,3
+TXN_00624,2024-06-28,CUST_0081,Delta Airlines,ATM_withdrawal,99.4,0,6,Jun,Friday,2
+TXN_00625,2024-11-11,CUST_0028,Walmart,electronics,144.45,0,11,Nov,Monday,4
+TXN_00626,2024-03-12,CUST_0076,Marriott Hotels,transfer,69.05,0,3,Mar,Tuesday,1
+TXN_00627,2024-08-07,CUST_0018,Apple Store,healthcare,93.13,0,8,Aug,Wednesday,3
+TXN_00628,2024-11-26,CUST_0071,Uber,healthcare,206.43,0,11,Nov,Tuesday,4
+TXN_00629,2024-12-19,CUST_0039,Apple Store,restaurant,40.59,1,12,Dec,Thursday,4
+TXN_00630,2024-07-19,CUST_0007,Apple Store,online_shopping,43.64,0,7,Jul,Friday,3
+TXN_00631,2024-07-16,CUST_0064,Uber,electronics,187.42,0,7,Jul,Tuesday,3
+TXN_00632,2024-09-27,CUST_0002,CVS Pharmacy,transfer,338.37,0,9,Sep,Friday,3
+TXN_00633,2024-03-08,CUST_0073,Marriott Hotels,transfer,107.52,0,3,Mar,Friday,1
+TXN_00634,2024-10-06,CUST_0098,Best Buy,electronics,113.93,0,10,Oct,Sunday,4
+TXN_00635,2024-01-09,CUST_0002,Whole Foods,restaurant,17.0,0,1,Jan,Tuesday,1
+TXN_00636,2024-01-21,CUST_0051,McDonald's,healthcare,88.97,0,1,Jan,Sunday,1
+TXN_00637,2024-11-17,CUST_0099,Marriott Hotels,ATM_withdrawal,114.09,0,11,Nov,Sunday,4
+TXN_00638,2024-12-25,CUST_0082,McDonald's,travel,41.65,0,12,Dec,Wednesday,4
+TXN_00639,2024-05-22,CUST_0011,McDonald's,restaurant,47.05,0,5,May,Wednesday,2
+TXN_00640,2024-03-20,CUST_0051,Uber,electronics,71.05,0,3,Mar,Wednesday,1
+TXN_00641,2024-06-07,CUST_0094,Apple Store,groceries,3.04,0,6,Jun,Friday,2
+TXN_00642,2024-05-05,CUST_0056,Walmart,online_shopping,58.31,0,5,May,Sunday,2
+TXN_00643,2024-11-09,CUST_0040,Delta Airlines,electronics,35.63,0,11,Nov,Saturday,4
+TXN_00644,2024-01-07,CUST_0090,Amazon,travel,59.51,0,1,Jan,Sunday,1
+TXN_00645,2024-09-11,CUST_0067,McDonald's,healthcare,19.13,0,9,Sep,Wednesday,3
+TXN_00646,2024-03-26,CUST_0096,Whole Foods,electronics,331.81,0,3,Mar,Tuesday,1
+TXN_00647,2024-01-16,CUST_0055,Whole Foods,electronics,135.06,0,1,Jan,Tuesday,1
+TXN_00648,2024-05-14,CUST_0074,Walmart,online_shopping,170.49,0,5,May,Tuesday,2
+TXN_00649,2024-08-21,CUST_0008,Best Buy,travel,233.51,0,8,Aug,Wednesday,3
+TXN_00650,2024-07-07,CUST_0099,Walmart,electronics,103.51,0,7,Jul,Sunday,3
+TXN_00651,2024-04-26,CUST_0001,Amazon,groceries,13.64,0,4,Apr,Friday,2
+TXN_00652,2024-05-05,CUST_0047,Marriott Hotels,travel,115.54,0,5,May,Sunday,2
+TXN_00653,2024-04-01,CUST_0005,McDonald's,ATM_withdrawal,132.59,0,4,Apr,Monday,2
+TXN_00654,2024-04-24,CUST_0054,CVS Pharmacy,healthcare,205.23,0,4,Apr,Wednesday,2
+TXN_00655,2024-02-09,CUST_0016,McDonald's,groceries,84.76,0,2,Feb,Friday,1
+TXN_00656,2024-04-01,CUST_0067,Amazon,ATM_withdrawal,20.47,0,4,Apr,Monday,2
+TXN_00657,2024-02-05,CUST_0037,Whole Foods,transfer,50.06,0,2,Feb,Monday,1
+TXN_00658,2024-02-14,CUST_0002,CVS Pharmacy,restaurant,67.67,0,2,Feb,Wednesday,1
+TXN_00659,2024-05-29,CUST_0039,Uber,restaurant,155.73,0,5,May,Wednesday,2
+TXN_00660,2024-08-25,CUST_0064,Apple Store,restaurant,126.87,0,8,Aug,Sunday,3
+TXN_00661,2024-03-18,CUST_0030,McDonald's,transfer,333.46,1,3,Mar,Monday,1
+TXN_00662,2024-11-21,CUST_0002,CVS Pharmacy,groceries,645.93,0,11,Nov,Thursday,4
+TXN_00663,2024-12-02,CUST_0095,Whole Foods,electronics,139.62,0,12,Dec,Monday,4
+TXN_00664,2024-04-15,CUST_0031,Marriott Hotels,online_shopping,40.62,0,4,Apr,Monday,2
+TXN_00665,2024-01-31,CUST_0019,Whole Foods,electronics,16.1,0,1,Jan,Wednesday,1
+TXN_00666,2024-01-23,CUST_0067,Marriott Hotels,transfer,24.88,0,1,Jan,Tuesday,1
+TXN_00667,2024-08-22,CUST_0011,Uber,electronics,42.35,0,8,Aug,Thursday,3
+TXN_00668,2024-09-15,CUST_0051,Walmart,groceries,26.27,0,9,Sep,Sunday,3
+TXN_00669,2024-08-10,CUST_0017,Apple Store,healthcare,30.97,0,8,Aug,Saturday,3
+TXN_00670,2024-05-13,CUST_0051,CVS Pharmacy,transfer,50.34,0,5,May,Monday,2
+TXN_00671,2024-08-19,CUST_0010,Apple Store,travel,28.56,0,8,Aug,Monday,3
+TXN_00672,2024-10-26,CUST_0014,Delta Airlines,online_shopping,340.61,0,10,Oct,Saturday,4
+TXN_00673,2024-08-26,CUST_0016,McDonald's,transfer,12.55,0,8,Aug,Monday,3
+TXN_00674,2024-04-16,CUST_0060,Whole Foods,electronics,111.51,0,4,Apr,Tuesday,2
+TXN_00675,2024-02-16,CUST_0088,Whole Foods,groceries,79.25,0,2,Feb,Friday,1
+TXN_00676,2024-04-20,CUST_0042,Delta Airlines,electronics,605.8,0,4,Apr,Saturday,2
+TXN_00677,2024-12-30,CUST_0046,Marriott Hotels,groceries,17.82,0,12,Dec,Monday,4
+TXN_00678,2024-12-12,CUST_0023,Amazon,ATM_withdrawal,76.09,0,12,Dec,Thursday,4
+TXN_00679,2024-08-19,CUST_0071,Apple Store,electronics,523.36,0,8,Aug,Monday,3
+TXN_00680,2024-08-24,CUST_0018,Walmart,groceries,300.94,0,8,Aug,Saturday,3
+TXN_00681,2024-02-01,CUST_0029,Delta Airlines,restaurant,254.8,0,2,Feb,Thursday,1
+TXN_00682,2024-07-24,CUST_0081,Walmart,healthcare,44.74,0,7,Jul,Wednesday,3
+TXN_00683,2024-02-08,CUST_0083,Best Buy,travel,93.39,1,2,Feb,Thursday,1
+TXN_00684,2024-02-17,CUST_0043,Walmart,groceries,165.68,0,2,Feb,Saturday,1
+TXN_00685,2024-08-24,CUST_0074,Marriott Hotels,ATM_withdrawal,397.56,0,8,Aug,Saturday,3
+TXN_00686,2024-09-11,CUST_0023,CVS Pharmacy,restaurant,783.08,1,9,Sep,Wednesday,3
+TXN_00687,2024-04-05,CUST_0058,Delta Airlines,groceries,127.16,0,4,Apr,Friday,2
+TXN_00688,2024-11-10,CUST_0032,Whole Foods,online_shopping,49.27,0,11,Nov,Sunday,4
+TXN_00689,2024-07-29,CUST_0062,Amazon,electronics,220.12,0,7,Jul,Monday,3
+TXN_00690,2024-05-23,CUST_0054,Apple Store,restaurant,31.06,0,5,May,Thursday,2
+TXN_00691,2024-11-18,CUST_0070,Amazon,ATM_withdrawal,58.66,0,11,Nov,Monday,4
+TXN_00692,2024-12-31,CUST_0070,Best Buy,transfer,83.12,0,12,Dec,Tuesday,4
+TXN_00693,2024-10-16,CUST_0050,Whole Foods,travel,106.27,0,10,Oct,Wednesday,4
+TXN_00694,2024-01-14,CUST_0029,Amazon,healthcare,41.64,0,1,Jan,Sunday,1
+TXN_00695,2024-01-30,CUST_0061,McDonald's,transfer,18.3,0,1,Jan,Tuesday,1
+TXN_00696,2024-10-26,CUST_0021,Walmart,restaurant,141.48,0,10,Oct,Saturday,4
+TXN_00697,2024-12-02,CUST_0069,Amazon,restaurant,51.08,0,12,Dec,Monday,4
+TXN_00698,2024-10-21,CUST_0050,CVS Pharmacy,travel,130.57,0,10,Oct,Monday,4
+TXN_00699,2024-03-31,CUST_0041,CVS Pharmacy,groceries,25.15,0,3,Mar,Sunday,1
+TXN_00700,2024-12-26,CUST_0073,Uber,travel,98.42,0,12,Dec,Thursday,4
+TXN_00701,2024-10-15,CUST_0064,McDonald's,healthcare,114.08,0,10,Oct,Tuesday,4
+TXN_00702,2024-03-30,CUST_0012,Amazon,restaurant,7.98,0,3,Mar,Saturday,1
+TXN_00703,2024-11-04,CUST_0068,Best Buy,groceries,61.56,0,11,Nov,Monday,4
+TXN_00704,2024-06-18,CUST_0026,Delta Airlines,transfer,21.65,0,6,Jun,Tuesday,2
+TXN_00705,2024-03-31,CUST_0042,Amazon,groceries,9.82,0,3,Mar,Sunday,1
+TXN_00706,2024-03-16,CUST_0019,Walmart,transfer,690.18,0,3,Mar,Saturday,1
+TXN_00707,2024-02-07,CUST_0085,Marriott Hotels,electronics,58.37,0,2,Feb,Wednesday,1
+TXN_00708,2024-06-21,CUST_0018,Delta Airlines,ATM_withdrawal,249.01,0,6,Jun,Friday,2
+TXN_00709,2024-11-23,CUST_0084,CVS Pharmacy,travel,44.08,0,11,Nov,Saturday,4
+TXN_00710,2024-12-28,CUST_0089,Uber,transfer,171.62,0,12,Dec,Saturday,4
+TXN_00711,2024-04-24,CUST_0023,Marriott Hotels,healthcare,214.21,0,4,Apr,Wednesday,2
+TXN_00712,2024-12-18,CUST_0023,Amazon,ATM_withdrawal,135.82,0,12,Dec,Wednesday,4
+TXN_00713,2024-10-17,CUST_0078,CVS Pharmacy,restaurant,95.68,0,10,Oct,Thursday,4
+TXN_00714,2024-11-23,CUST_0064,Delta Airlines,transfer,79.61,0,11,Nov,Saturday,4
+TXN_00715,2024-02-09,CUST_0041,Delta Airlines,electronics,64.36,0,2,Feb,Friday,1
+TXN_00716,2024-12-28,CUST_0094,CVS Pharmacy,online_shopping,397.88,0,12,Dec,Saturday,4
+TXN_00717,2024-01-06,CUST_0032,Walmart,transfer,266.34,0,1,Jan,Saturday,1
+TXN_00718,2024-05-11,CUST_0093,Amazon,groceries,502.98,0,5,May,Saturday,2
+TXN_00719,2024-07-16,CUST_0054,Delta Airlines,ATM_withdrawal,19.91,0,7,Jul,Tuesday,3
+TXN_00720,2024-09-09,CUST_0045,McDonald's,ATM_withdrawal,196.88,0,9,Sep,Monday,3
+TXN_00721,2024-02-21,CUST_0074,Apple Store,travel,417.92,0,2,Feb,Wednesday,1
+TXN_00722,2024-08-19,CUST_0005,Whole Foods,groceries,29.99,0,8,Aug,Monday,3
+TXN_00723,2024-06-12,CUST_0014,Walmart,transfer,10.32,0,6,Jun,Wednesday,2
+TXN_00724,2024-03-28,CUST_0021,Walmart,electronics,202.71,0,3,Mar,Thursday,1
+TXN_00725,2024-06-22,CUST_0079,Best Buy,groceries,128.16,0,6,Jun,Saturday,2
+TXN_00726,2024-08-08,CUST_0022,Uber,ATM_withdrawal,276.61,0,8,Aug,Thursday,3
+TXN_00727,2024-03-21,CUST_0043,Apple Store,restaurant,22.58,0,3,Mar,Thursday,1
+TXN_00728,2024-07-28,CUST_0093,McDonald's,healthcare,237.91,0,7,Jul,Sunday,3
+TXN_00729,2024-12-04,CUST_0031,Walmart,groceries,33.78,0,12,Dec,Wednesday,4
+TXN_00730,2024-07-20,CUST_0063,Delta Airlines,groceries,26.81,0,7,Jul,Saturday,3
+TXN_00731,2024-07-03,CUST_0085,Uber,online_shopping,92.55,1,7,Jul,Wednesday,3
+TXN_00732,2024-04-12,CUST_0027,Delta Airlines,healthcare,252.77,0,4,Apr,Friday,2
+TXN_00733,2024-02-11,CUST_0015,Whole Foods,ATM_withdrawal,164.13,0,2,Feb,Sunday,1
+TXN_00734,2024-08-29,CUST_0085,Whole Foods,electronics,111.06,0,8,Aug,Thursday,3
+TXN_00735,2024-11-24,CUST_0024,CVS Pharmacy,ATM_withdrawal,66.67,0,11,Nov,Sunday,4
+TXN_00736,2024-07-08,CUST_0006,Whole Foods,online_shopping,314.58,0,7,Jul,Monday,3
+TXN_00737,2024-08-26,CUST_0035,Uber,groceries,74.75,0,8,Aug,Monday,3
+TXN_00738,2024-03-18,CUST_0086,Walmart,electronics,254.41,0,3,Mar,Monday,1
+TXN_00739,2024-12-08,CUST_0070,Marriott Hotels,restaurant,86.74,0,12,Dec,Sunday,4
+TXN_00740,2024-10-10,CUST_0050,McDonald's,ATM_withdrawal,70.97,0,10,Oct,Thursday,4
+TXN_00741,2024-10-01,CUST_0061,Uber,restaurant,93.17,0,10,Oct,Tuesday,4
+TXN_00742,2024-08-31,CUST_0051,Amazon,travel,53.8,0,8,Aug,Saturday,3
+TXN_00743,2024-03-02,CUST_0058,Delta Airlines,travel,206.52,0,3,Mar,Saturday,1
+TXN_00744,2024-04-18,CUST_0017,Amazon,ATM_withdrawal,104.79,0,4,Apr,Thursday,2
+TXN_00745,2024-02-10,CUST_0056,Apple Store,travel,39.64,0,2,Feb,Saturday,1
+TXN_00746,2024-10-31,CUST_0094,Walmart,electronics,344.75,0,10,Oct,Thursday,4
+TXN_00747,2024-07-17,CUST_0071,CVS Pharmacy,healthcare,72.65,0,7,Jul,Wednesday,3
+TXN_00748,2024-09-23,CUST_0002,Uber,ATM_withdrawal,117.64,0,9,Sep,Monday,3
+TXN_00749,2024-02-27,CUST_0019,Uber,electronics,355.42,0,2,Feb,Tuesday,1
+TXN_00750,2024-02-24,CUST_0013,Whole Foods,transfer,146.82,0,2,Feb,Saturday,1
+TXN_00751,2024-07-29,CUST_0084,Best Buy,online_shopping,18.65,0,7,Jul,Monday,3
+TXN_00752,2024-01-20,CUST_0052,Delta Airlines,ATM_withdrawal,421.59,0,1,Jan,Saturday,1
+TXN_00753,2024-01-20,CUST_0043,Apple Store,groceries,148.21,0,1,Jan,Saturday,1
+TXN_00754,2024-08-31,CUST_0048,Amazon,transfer,61.17,0,8,Aug,Saturday,3
+TXN_00755,2024-06-04,CUST_0063,Walmart,restaurant,22.5,0,6,Jun,Tuesday,2
+TXN_00756,2024-03-09,CUST_0096,Best Buy,transfer,237.0,0,3,Mar,Saturday,1
+TXN_00757,2024-05-17,CUST_0078,Walmart,restaurant,145.17,0,5,May,Friday,2
+TXN_00758,2024-08-14,CUST_0053,Best Buy,transfer,114.36,0,8,Aug,Wednesday,3
+TXN_00759,2024-01-29,CUST_0021,Walmart,healthcare,336.5,0,1,Jan,Monday,1
+TXN_00760,2024-12-29,CUST_0018,McDonald's,groceries,233.1,0,12,Dec,Sunday,4
+TXN_00761,2024-03-29,CUST_0026,Amazon,restaurant,24.67,0,3,Mar,Friday,1
+TXN_00762,2024-01-17,CUST_0047,Apple Store,healthcare,56.03,0,1,Jan,Wednesday,1
+TXN_00763,2024-07-07,CUST_0065,Marriott Hotels,electronics,42.85,0,7,Jul,Sunday,3
+TXN_00764,2024-12-14,CUST_0048,Best Buy,online_shopping,204.36,0,12,Dec,Saturday,4
+TXN_00765,2024-03-31,CUST_0061,Uber,transfer,5.12,0,3,Mar,Sunday,1
+TXN_00766,2024-06-25,CUST_0034,Walmart,healthcare,126.56,0,6,Jun,Tuesday,2
+TXN_00767,2024-01-15,CUST_0021,Uber,restaurant,215.61,0,1,Jan,Monday,1
+TXN_00768,2024-04-23,CUST_0087,Apple Store,healthcare,314.05,0,4,Apr,Tuesday,2
+TXN_00769,2024-11-29,CUST_0003,Amazon,online_shopping,62.8,0,11,Nov,Friday,4
+TXN_00770,2024-03-08,CUST_0077,Amazon,restaurant,258.27,0,3,Mar,Friday,1
+TXN_00771,2024-05-09,CUST_0040,Whole Foods,ATM_withdrawal,17.59,0,5,May,Thursday,2
+TXN_00772,2024-07-11,CUST_0059,Whole Foods,restaurant,281.06,0,7,Jul,Thursday,3
+TXN_00773,2024-08-26,CUST_0067,Uber,ATM_withdrawal,20.46,0,8,Aug,Monday,3
+TXN_00774,2024-10-26,CUST_0066,CVS Pharmacy,healthcare,75.95,0,10,Oct,Saturday,4
+TXN_00775,2024-06-01,CUST_0062,Walmart,transfer,239.4,0,6,Jun,Saturday,2
+TXN_00776,2024-05-21,CUST_0036,Whole Foods,healthcare,24.36,0,5,May,Tuesday,2
+TXN_00777,2024-04-06,CUST_0098,Apple Store,groceries,39.06,0,4,Apr,Saturday,2
+TXN_00778,2024-11-03,CUST_0041,Delta Airlines,groceries,192.16,0,11,Nov,Sunday,4
+TXN_00779,2024-12-01,CUST_0038,Whole Foods,ATM_withdrawal,190.96,0,12,Dec,Sunday,4
+TXN_00780,2024-07-26,CUST_0005,Uber,restaurant,153.73,0,7,Jul,Friday,3
+TXN_00781,2024-06-24,CUST_0029,McDonald's,online_shopping,177.6,0,6,Jun,Monday,2
+TXN_00782,2024-12-09,CUST_0039,Delta Airlines,travel,117.37,0,12,Dec,Monday,4
+TXN_00783,2024-05-30,CUST_0017,Whole Foods,travel,43.51,0,5,May,Thursday,2
+TXN_00784,2024-12-14,CUST_0084,Walmart,restaurant,63.63,0,12,Dec,Saturday,4
+TXN_00785,2024-06-30,CUST_0040,Marriott Hotels,transfer,30.06,0,6,Jun,Sunday,2
+TXN_00786,2024-07-09,CUST_0038,Best Buy,electronics,358.63,0,7,Jul,Tuesday,3
+TXN_00787,2024-08-28,CUST_0082,Uber,electronics,131.34,0,8,Aug,Wednesday,3
+TXN_00788,2024-08-29,CUST_0065,Walmart,ATM_withdrawal,76.84,0,8,Aug,Thursday,3
+TXN_00789,2024-09-28,CUST_0007,Delta Airlines,travel,92.99,0,9,Sep,Saturday,3
+TXN_00790,2024-04-12,CUST_0073,Best Buy,travel,441.42,0,4,Apr,Friday,2
+TXN_00791,2024-06-10,CUST_0024,Walmart,online_shopping,24.97,0,6,Jun,Monday,2
+TXN_00792,2024-06-19,CUST_0023,CVS Pharmacy,groceries,132.37,0,6,Jun,Wednesday,2
+TXN_00793,2024-01-03,CUST_0027,Delta Airlines,travel,105.75,0,1,Jan,Wednesday,1
+TXN_00794,2024-09-07,CUST_0100,Walmart,travel,141.8,0,9,Sep,Saturday,3
+TXN_00795,2024-11-10,CUST_0055,Marriott Hotels,ATM_withdrawal,2.74,0,11,Nov,Sunday,4
+TXN_00796,2024-09-01,CUST_0005,McDonald's,restaurant,308.5,0,9,Sep,Sunday,3
+TXN_00797,2024-07-10,CUST_0042,McDonald's,restaurant,403.5,0,7,Jul,Wednesday,3
+TXN_00798,2024-01-10,CUST_0081,Apple Store,restaurant,124.91,0,1,Jan,Wednesday,1
+TXN_00799,2024-12-21,CUST_0040,Delta Airlines,electronics,178.93,0,12,Dec,Saturday,4
+TXN_00800,2024-07-15,CUST_0040,Delta Airlines,electronics,383.62,0,7,Jul,Monday,3
+TXN_00801,2024-01-24,CUST_0038,Best Buy,transfer,184.26,0,1,Jan,Wednesday,1
+TXN_00802,2024-08-10,CUST_0018,CVS Pharmacy,online_shopping,24.83,0,8,Aug,Saturday,3
+TXN_00803,2024-07-02,CUST_0022,Marriott Hotels,groceries,128.81,0,7,Jul,Tuesday,3
+TXN_00804,2024-04-26,CUST_0017,Apple Store,groceries,139.98,0,4,Apr,Friday,2
+TXN_00805,2024-10-28,CUST_0016,CVS Pharmacy,groceries,82.78,0,10,Oct,Monday,4
+TXN_00806,2024-07-11,CUST_0033,McDonald's,groceries,200.02,0,7,Jul,Thursday,3
+TXN_00807,2024-10-31,CUST_0085,Walmart,groceries,408.55,0,10,Oct,Thursday,4
+TXN_00808,2024-01-25,CUST_0054,Best Buy,ATM_withdrawal,389.68,0,1,Jan,Thursday,1
+TXN_00809,2024-03-04,CUST_0061,Delta Airlines,restaurant,89.9,0,3,Mar,Monday,1
+TXN_00810,2024-12-21,CUST_0002,Whole Foods,ATM_withdrawal,18.03,0,12,Dec,Saturday,4
+TXN_00811,2024-12-04,CUST_0067,Whole Foods,travel,628.38,0,12,Dec,Wednesday,4
+TXN_00812,2024-08-02,CUST_0014,McDonald's,electronics,273.86,0,8,Aug,Friday,3
+TXN_00813,2024-05-24,CUST_0014,Best Buy,restaurant,19.97,0,5,May,Friday,2
+TXN_00814,2024-11-07,CUST_0034,McDonald's,restaurant,380.45,0,11,Nov,Thursday,4
+TXN_00815,2024-07-02,CUST_0038,Delta Airlines,groceries,305.91,0,7,Jul,Tuesday,3
+TXN_00816,2024-10-07,CUST_0027,Best Buy,transfer,109.73,0,10,Oct,Monday,4
+TXN_00817,2024-04-30,CUST_0015,Uber,online_shopping,853.33,1,4,Apr,Tuesday,2
+TXN_00818,2024-03-17,CUST_0100,McDonald's,electronics,76.37,0,3,Mar,Sunday,1
+TXN_00819,2024-02-21,CUST_0083,Apple Store,online_shopping,8.45,0,2,Feb,Wednesday,1
+TXN_00820,2024-05-31,CUST_0007,Walmart,travel,61.24,0,5,May,Friday,2
+TXN_00821,2024-01-21,CUST_0047,CVS Pharmacy,ATM_withdrawal,243.57,0,1,Jan,Sunday,1
+TXN_00822,2024-02-29,CUST_0098,Amazon,groceries,0.7,0,2,Feb,Thursday,1
+TXN_00823,2024-03-11,CUST_0022,CVS Pharmacy,transfer,60.86,0,3,Mar,Monday,1
+TXN_00824,2024-08-12,CUST_0035,Walmart,transfer,76.17,0,8,Aug,Monday,3
+TXN_00825,2024-06-24,CUST_0052,Marriott Hotels,online_shopping,115.63,0,6,Jun,Monday,2
+TXN_00826,2024-05-19,CUST_0089,Best Buy,ATM_withdrawal,378.59,0,5,May,Sunday,2
+TXN_00827,2024-11-28,CUST_0022,Walmart,travel,63.78,0,11,Nov,Thursday,4
+TXN_00828,2024-12-22,CUST_0021,Walmart,ATM_withdrawal,63.92,0,12,Dec,Sunday,4
+TXN_00829,2024-10-29,CUST_0073,Best Buy,travel,200.63,0,10,Oct,Tuesday,4
+TXN_00830,2024-11-08,CUST_0046,Uber,groceries,90.28,0,11,Nov,Friday,4
+TXN_00831,2024-12-16,CUST_0094,Delta Airlines,online_shopping,38.16,0,12,Dec,Monday,4
+TXN_00832,2024-09-06,CUST_0053,Best Buy,groceries,90.34,0,9,Sep,Friday,3
+TXN_00833,2024-02-02,CUST_0041,Amazon,restaurant,22.77,0,2,Feb,Friday,1
+TXN_00834,2024-12-08,CUST_0067,McDonald's,electronics,29.11,0,12,Dec,Sunday,4
+TXN_00835,2024-08-09,CUST_0032,Best Buy,transfer,103.48,0,8,Aug,Friday,3
+TXN_00836,2024-12-05,CUST_0050,Delta Airlines,groceries,81.43,0,12,Dec,Thursday,4
+TXN_00837,2024-01-06,CUST_0021,McDonald's,online_shopping,369.49,0,1,Jan,Saturday,1
+TXN_00838,2024-09-10,CUST_0010,Best Buy,transfer,67.51,0,9,Sep,Tuesday,3
+TXN_00839,2024-05-03,CUST_0036,Amazon,restaurant,130.34,0,5,May,Friday,2
+TXN_00840,2024-10-08,CUST_0052,Apple Store,electronics,150.06,0,10,Oct,Tuesday,4
+TXN_00841,2024-08-23,CUST_0074,Best Buy,electronics,1.98,0,8,Aug,Friday,3
+TXN_00842,2024-09-12,CUST_0016,Best Buy,groceries,163.39,0,9,Sep,Thursday,3
+TXN_00843,2024-02-22,CUST_0005,McDonald's,groceries,29.41,0,2,Feb,Thursday,1
+TXN_00844,2024-02-16,CUST_0080,Whole Foods,restaurant,486.9,0,2,Feb,Friday,1
+TXN_00845,2024-12-01,CUST_0044,CVS Pharmacy,groceries,24.14,0,12,Dec,Sunday,4
+TXN_00846,2024-04-24,CUST_0043,McDonald's,online_shopping,80.33,0,4,Apr,Wednesday,2
+TXN_00847,2024-12-02,CUST_0058,Walmart,electronics,13.38,0,12,Dec,Monday,4
+TXN_00848,2024-12-03,CUST_0044,CVS Pharmacy,healthcare,865.21,0,12,Dec,Tuesday,4
+TXN_00849,2024-10-07,CUST_0090,Walmart,groceries,104.63,0,10,Oct,Monday,4
+TXN_00850,2024-03-25,CUST_0092,Marriott Hotels,electronics,135.72,0,3,Mar,Monday,1
+TXN_00851,2024-05-10,CUST_0025,Walmart,ATM_withdrawal,10.41,0,5,May,Friday,2
+TXN_00852,2024-04-20,CUST_0025,CVS Pharmacy,electronics,207.92,0,4,Apr,Saturday,2
+TXN_00853,2024-07-31,CUST_0082,Uber,electronics,35.34,0,7,Jul,Wednesday,3
+TXN_00854,2024-08-18,CUST_0076,McDonald's,travel,342.5,0,8,Aug,Sunday,3
+TXN_00855,2024-09-12,CUST_0071,Marriott Hotels,online_shopping,230.1,1,9,Sep,Thursday,3
+TXN_00856,2024-09-17,CUST_0023,Uber,travel,31.74,0,9,Sep,Tuesday,3
+TXN_00857,2024-03-06,CUST_0085,Uber,transfer,5.59,0,3,Mar,Wednesday,1
+TXN_00858,2024-09-15,CUST_0054,Uber,restaurant,95.82,0,9,Sep,Sunday,3
+TXN_00859,2024-05-20,CUST_0044,Whole Foods,online_shopping,124.81,0,5,May,Monday,2
+TXN_00860,2024-03-09,CUST_0078,McDonald's,healthcare,10.2,0,3,Mar,Saturday,1
+TXN_00861,2024-12-25,CUST_0041,McDonald's,restaurant,224.1,0,12,Dec,Wednesday,4
+TXN_00862,2024-04-12,CUST_0092,Whole Foods,transfer,90.58,0,4,Apr,Friday,2
+TXN_00863,2024-12-10,CUST_0091,Delta Airlines,transfer,111.47,0,12,Dec,Tuesday,4
+TXN_00864,2024-12-29,CUST_0046,McDonald's,online_shopping,87.18,0,12,Dec,Sunday,4
+TXN_00865,2024-10-25,CUST_0086,Marriott Hotels,healthcare,76.81,0,10,Oct,Friday,4
+TXN_00866,2024-08-04,CUST_0067,Walmart,groceries,123.02,0,8,Aug,Sunday,3
+TXN_00867,2024-07-14,CUST_0086,Amazon,restaurant,25.31,0,7,Jul,Sunday,3
+TXN_00868,2024-05-16,CUST_0021,Whole Foods,healthcare,30.12,0,5,May,Thursday,2
+TXN_00869,2024-03-15,CUST_0089,Whole Foods,restaurant,296.84,0,3,Mar,Friday,1
+TXN_00870,2024-10-04,CUST_0058,Walmart,restaurant,438.14,0,10,Oct,Friday,4
+TXN_00871,2024-11-27,CUST_0031,McDonald's,healthcare,70.1,0,11,Nov,Wednesday,4
+TXN_00872,2024-12-20,CUST_0049,Marriott Hotels,ATM_withdrawal,47.36,0,12,Dec,Friday,4
+TXN_00873,2024-12-16,CUST_0071,Amazon,groceries,154.92,0,12,Dec,Monday,4
+TXN_00874,2024-05-08,CUST_0100,Best Buy,restaurant,78.82,0,5,May,Wednesday,2
+TXN_00875,2024-11-20,CUST_0083,CVS Pharmacy,restaurant,3.86,0,11,Nov,Wednesday,4
+TXN_00876,2024-04-09,CUST_0023,Walmart,travel,25.47,0,4,Apr,Tuesday,2
+TXN_00877,2024-03-29,CUST_0016,Marriott Hotels,groceries,188.8,0,3,Mar,Friday,1
+TXN_00878,2024-08-07,CUST_0034,Delta Airlines,travel,161.35,0,8,Aug,Wednesday,3
+TXN_00879,2024-10-26,CUST_0001,CVS Pharmacy,online_shopping,4.12,0,10,Oct,Saturday,4
+TXN_00880,2024-12-29,CUST_0006,Delta Airlines,transfer,37.65,0,12,Dec,Sunday,4
+TXN_00881,2024-11-01,CUST_0081,Uber,healthcare,39.41,0,11,Nov,Friday,4
+TXN_00882,2024-09-08,CUST_0071,CVS Pharmacy,electronics,167.16,0,9,Sep,Sunday,3
+TXN_00883,2024-12-28,CUST_0029,Delta Airlines,electronics,2.99,0,12,Dec,Saturday,4
+TXN_00884,2024-09-15,CUST_0070,McDonald's,ATM_withdrawal,16.49,0,9,Sep,Sunday,3
+TXN_00885,2024-02-17,CUST_0028,CVS Pharmacy,transfer,241.35,0,2,Feb,Saturday,1
+TXN_00886,2024-07-03,CUST_0097,Uber,online_shopping,29.5,0,7,Jul,Wednesday,3
+TXN_00887,2024-10-14,CUST_0084,Amazon,electronics,158.65,0,10,Oct,Monday,4
+TXN_00888,2024-12-08,CUST_0031,Uber,restaurant,40.81,0,12,Dec,Sunday,4
+TXN_00889,2024-01-21,CUST_0042,Marriott Hotels,electronics,15.71,0,1,Jan,Sunday,1
+TXN_00890,2024-07-16,CUST_0093,Whole Foods,groceries,41.79,0,7,Jul,Tuesday,3
+TXN_00891,2024-09-21,CUST_0048,McDonald's,online_shopping,192.16,0,9,Sep,Saturday,3
+TXN_00892,2024-09-06,CUST_0084,Apple Store,transfer,290.38,0,9,Sep,Friday,3
+TXN_00893,2024-09-20,CUST_0013,Delta Airlines,groceries,265.99,0,9,Sep,Friday,3
+TXN_00894,2024-11-16,CUST_0086,Apple Store,ATM_withdrawal,75.92,0,11,Nov,Saturday,4
+TXN_00895,2024-02-23,CUST_0090,Marriott Hotels,electronics,165.43,0,2,Feb,Friday,1
+TXN_00896,2024-12-17,CUST_0059,CVS Pharmacy,groceries,34.41,0,12,Dec,Tuesday,4
+TXN_00897,2024-02-14,CUST_0023,Whole Foods,electronics,52.04,0,2,Feb,Wednesday,1
+TXN_00898,2024-10-21,CUST_0034,Marriott Hotels,ATM_withdrawal,339.99,0,10,Oct,Monday,4
+TXN_00899,2024-08-18,CUST_0056,CVS Pharmacy,groceries,1.96,0,8,Aug,Sunday,3
+TXN_00900,2024-07-18,CUST_0069,Amazon,electronics,13.41,0,7,Jul,Thursday,3
+TXN_00901,2024-10-26,CUST_0010,CVS Pharmacy,electronics,34.96,0,10,Oct,Saturday,4
+TXN_00902,2024-05-28,CUST_0039,Uber,electronics,4.03,0,5,May,Tuesday,2
+TXN_00903,2024-05-24,CUST_0057,Marriott Hotels,ATM_withdrawal,30.03,0,5,May,Friday,2
+TXN_00904,2024-12-04,CUST_0021,McDonald's,restaurant,131.22,0,12,Dec,Wednesday,4
+TXN_00905,2024-03-10,CUST_0070,Whole Foods,travel,82.08,0,3,Mar,Sunday,1
+TXN_00906,2024-06-01,CUST_0094,CVS Pharmacy,groceries,334.78,0,6,Jun,Saturday,2
+TXN_00907,2024-10-10,CUST_0019,Walmart,groceries,255.1,0,10,Oct,Thursday,4
+TXN_00908,2024-01-03,CUST_0051,McDonald's,electronics,62.74,0,1,Jan,Wednesday,1
+TXN_00909,2024-06-05,CUST_0095,CVS Pharmacy,restaurant,45.05,0,6,Jun,Wednesday,2
+TXN_00910,2024-07-30,CUST_0066,Delta Airlines,travel,71.63,0,7,Jul,Tuesday,3
+TXN_00911,2024-04-04,CUST_0033,Apple Store,electronics,133.85,0,4,Apr,Thursday,2
+TXN_00912,2024-04-02,CUST_0073,Amazon,online_shopping,46.81,0,4,Apr,Tuesday,2
+TXN_00913,2024-11-26,CUST_0038,Walmart,healthcare,146.78,0,11,Nov,Tuesday,4
+TXN_00914,2024-02-20,CUST_0075,Best Buy,transfer,79.0,0,2,Feb,Tuesday,1
+TXN_00915,2024-07-01,CUST_0084,Apple Store,electronics,120.46,0,7,Jul,Monday,3
+TXN_00916,2024-05-25,CUST_0025,CVS Pharmacy,online_shopping,85.94,0,5,May,Saturday,2
+TXN_00917,2024-08-18,CUST_0085,Whole Foods,travel,52.32,0,8,Aug,Sunday,3
+TXN_00918,2024-10-16,CUST_0041,Marriott Hotels,travel,444.79,0,10,Oct,Wednesday,4
+TXN_00919,2024-01-03,CUST_0029,Marriott Hotels,healthcare,216.34,0,1,Jan,Wednesday,1
+TXN_00920,2024-07-03,CUST_0094,CVS Pharmacy,online_shopping,22.64,0,7,Jul,Wednesday,3
+TXN_00921,2024-08-24,CUST_0100,Whole Foods,online_shopping,304.28,0,8,Aug,Saturday,3
+TXN_00922,2024-10-09,CUST_0083,Uber,electronics,100.25,0,10,Oct,Wednesday,4
+TXN_00923,2024-05-23,CUST_0018,McDonald's,restaurant,337.43,0,5,May,Thursday,2
+TXN_00924,2024-05-14,CUST_0081,Walmart,electronics,241.31,0,5,May,Tuesday,2
+TXN_00925,2024-01-10,CUST_0081,Amazon,ATM_withdrawal,83.06,0,1,Jan,Wednesday,1
+TXN_00926,2024-10-29,CUST_0005,McDonald's,healthcare,3.41,0,10,Oct,Tuesday,4
+TXN_00927,2024-10-05,CUST_0070,Best Buy,travel,46.94,0,10,Oct,Saturday,4
+TXN_00928,2024-07-06,CUST_0099,Uber,healthcare,117.01,0,7,Jul,Saturday,3
+TXN_00929,2024-03-09,CUST_0066,Walmart,ATM_withdrawal,150.55,0,3,Mar,Saturday,1
+TXN_00930,2024-07-05,CUST_0085,Apple Store,travel,44.74,0,7,Jul,Friday,3
+TXN_00931,2024-09-20,CUST_0021,Delta Airlines,travel,22.51,0,9,Sep,Friday,3
+TXN_00932,2024-09-04,CUST_0006,Apple Store,online_shopping,270.21,0,9,Sep,Wednesday,3
+TXN_00933,2024-04-28,CUST_0048,Apple Store,groceries,624.09,0,4,Apr,Sunday,2
+TXN_00934,2024-12-08,CUST_0047,Marriott Hotels,online_shopping,111.88,0,12,Dec,Sunday,4
+TXN_00935,2024-08-20,CUST_0006,CVS Pharmacy,electronics,28.25,0,8,Aug,Tuesday,3
+TXN_00936,2024-12-26,CUST_0082,Whole Foods,healthcare,47.68,0,12,Dec,Thursday,4
+TXN_00937,2024-10-23,CUST_0023,Marriott Hotels,ATM_withdrawal,2.78,0,10,Oct,Wednesday,4
+TXN_00938,2024-07-06,CUST_0010,McDonald's,healthcare,368.53,0,7,Jul,Saturday,3
+TXN_00939,2024-07-11,CUST_0029,McDonald's,ATM_withdrawal,18.79,0,7,Jul,Thursday,3
+TXN_00940,2024-06-29,CUST_0045,Best Buy,online_shopping,128.89,0,6,Jun,Saturday,2
+TXN_00941,2024-11-05,CUST_0057,Delta Airlines,restaurant,355.98,1,11,Nov,Tuesday,4
+TXN_00942,2024-02-09,CUST_0036,Apple Store,travel,121.18,0,2,Feb,Friday,1
+TXN_00943,2024-04-05,CUST_0078,Walmart,restaurant,158.08,0,4,Apr,Friday,2
+TXN_00944,2024-07-31,CUST_0093,Walmart,online_shopping,265.57,0,7,Jul,Wednesday,3
+TXN_00945,2024-12-11,CUST_0027,Uber,travel,34.68,0,12,Dec,Wednesday,4
+TXN_00946,2024-11-27,CUST_0003,Apple Store,groceries,1.66,0,11,Nov,Wednesday,4
+TXN_00947,2024-03-06,CUST_0021,Delta Airlines,groceries,22.08,0,3,Mar,Wednesday,1
+TXN_00948,2024-10-20,CUST_0022,Whole Foods,travel,345.42,0,10,Oct,Sunday,4
+TXN_00949,2024-09-21,CUST_0077,Uber,groceries,310.59,0,9,Sep,Saturday,3
+TXN_00950,2024-12-04,CUST_0011,Apple Store,online_shopping,136.48,0,12,Dec,Wednesday,4
+TXN_00951,2024-11-06,CUST_0062,Delta Airlines,restaurant,137.64,0,11,Nov,Wednesday,4
+TXN_00952,2024-07-29,CUST_0075,Delta Airlines,healthcare,164.06,0,7,Jul,Monday,3
+TXN_00953,2024-03-26,CUST_0044,Best Buy,electronics,28.92,0,3,Mar,Tuesday,1
+TXN_00954,2024-04-27,CUST_0017,Walmart,groceries,368.73,0,4,Apr,Saturday,2
+TXN_00955,2024-04-13,CUST_0065,Marriott Hotels,travel,81.39,0,4,Apr,Saturday,2
+TXN_00956,2024-11-06,CUST_0061,Uber,groceries,72.47,0,11,Nov,Wednesday,4
+TXN_00957,2024-09-29,CUST_0016,Walmart,online_shopping,109.76,0,9,Sep,Sunday,3
+TXN_00958,2024-12-03,CUST_0078,McDonald's,groceries,7.22,0,12,Dec,Tuesday,4
+TXN_00959,2024-12-13,CUST_0067,Marriott Hotels,transfer,27.28,0,12,Dec,Friday,4
+TXN_00960,2024-01-23,CUST_0055,Apple Store,online_shopping,200.93,0,1,Jan,Tuesday,1
+TXN_00961,2024-07-14,CUST_0095,Uber,electronics,12.96,0,7,Jul,Sunday,3
+TXN_00962,2024-08-05,CUST_0062,Apple Store,electronics,138.63,0,8,Aug,Monday,3
+TXN_00963,2024-05-25,CUST_0070,Marriott Hotels,healthcare,42.23,0,5,May,Saturday,2
+TXN_00964,2024-04-06,CUST_0001,Uber,electronics,496.95,1,4,Apr,Saturday,2
+TXN_00965,2024-09-23,CUST_0089,CVS Pharmacy,ATM_withdrawal,320.54,1,9,Sep,Monday,3
+TXN_00966,2024-07-04,CUST_0055,Uber,healthcare,65.93,0,7,Jul,Thursday,3
+TXN_00967,2024-05-13,CUST_0055,Uber,transfer,190.43,0,5,May,Monday,2
+TXN_00968,2024-11-09,CUST_0088,Marriott Hotels,restaurant,52.89,0,11,Nov,Saturday,4
+TXN_00969,2024-07-30,CUST_0072,Best Buy,travel,125.35,0,7,Jul,Tuesday,3
+TXN_00970,2024-07-08,CUST_0062,Whole Foods,healthcare,96.95,0,7,Jul,Monday,3
+TXN_00971,2024-10-22,CUST_0091,Marriott Hotels,travel,163.45,0,10,Oct,Tuesday,4
+TXN_00972,2024-12-03,CUST_0030,Best Buy,travel,414.29,0,12,Dec,Tuesday,4
+TXN_00973,2024-02-21,CUST_0052,CVS Pharmacy,groceries,197.84,0,2,Feb,Wednesday,1
+TXN_00974,2024-03-23,CUST_0082,Amazon,electronics,36.3,0,3,Mar,Saturday,1
+TXN_00975,2024-03-15,CUST_0077,Marriott Hotels,electronics,4.75,0,3,Mar,Friday,1
+TXN_00976,2024-02-02,CUST_0048,Walmart,groceries,45.63,0,2,Feb,Friday,1
+TXN_00977,2024-07-15,CUST_0052,Uber,healthcare,135.61,0,7,Jul,Monday,3
+TXN_00978,2024-12-30,CUST_0008,Delta Airlines,online_shopping,7.92,0,12,Dec,Monday,4
+TXN_00979,2024-08-12,CUST_0067,Whole Foods,restaurant,746.24,1,8,Aug,Monday,3
+TXN_00980,2024-01-18,CUST_0066,McDonald's,restaurant,136.26,0,1,Jan,Thursday,1
+TXN_00981,2024-11-10,CUST_0005,CVS Pharmacy,restaurant,61.02,0,11,Nov,Sunday,4
+TXN_00982,2024-12-01,CUST_0036,Marriott Hotels,transfer,837.17,1,12,Dec,Sunday,4
+TXN_00983,2024-12-08,CUST_0076,Apple Store,groceries,16.91,0,12,Dec,Sunday,4
+TXN_00984,2024-12-26,CUST_0012,McDonald's,healthcare,11.72,0,12,Dec,Thursday,4
+TXN_00985,2024-10-13,CUST_0045,CVS Pharmacy,healthcare,195.4,0,10,Oct,Sunday,4
+TXN_00986,2024-04-25,CUST_0025,Best Buy,ATM_withdrawal,102.63,0,4,Apr,Thursday,2
+TXN_00987,2024-10-21,CUST_0065,Walmart,electronics,677.81,1,10,Oct,Monday,4
+TXN_00988,2024-09-14,CUST_0015,McDonald's,healthcare,85.59,0,9,Sep,Saturday,3
+TXN_00989,2024-10-02,CUST_0074,Whole Foods,online_shopping,42.43,0,10,Oct,Wednesday,4
+TXN_00990,2024-07-12,CUST_0099,Apple Store,transfer,256.47,0,7,Jul,Friday,3
+TXN_00991,2024-08-22,CUST_0076,Amazon,online_shopping,240.98,0,8,Aug,Thursday,3
+TXN_00992,2024-02-29,CUST_0049,Apple Store,restaurant,177.97,0,2,Feb,Thursday,1
+TXN_00993,2024-06-10,CUST_0046,McDonald's,groceries,47.65,0,6,Jun,Monday,2
+TXN_00994,2024-12-24,CUST_0032,Whole Foods,electronics,133.82,0,12,Dec,Tuesday,4
+TXN_00995,2024-07-23,CUST_0044,Walmart,travel,67.17,0,7,Jul,Tuesday,3
+TXN_00996,2024-08-31,CUST_0028,Uber,healthcare,14.41,0,8,Aug,Saturday,3
+TXN_00997,2024-04-03,CUST_0088,Apple Store,online_shopping,373.9,0,4,Apr,Wednesday,2
+TXN_00998,2024-04-12,CUST_0031,Whole Foods,restaurant,22.07,0,4,Apr,Friday,2
+TXN_00999,2024-04-27,CUST_0032,Uber,transfer,450.07,0,4,Apr,Saturday,2
+TXN_01000,2024-03-20,CUST_0016,Walmart,online_shopping,88.59,0,3,Mar,Wednesday,1
