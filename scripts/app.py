@@ -255,7 +255,7 @@ elif page == "🤖 AI Agent Chat":
     # API Key input
     api_key = st.text_input("Anthropic API Key",
                              type="password",
-                             placeholder="placeholder="sk-ant-api03-..."
+                             placeholder="sk-ant-api03-..."
 
     # Chat history
     if "messages" not in st.session_state:
